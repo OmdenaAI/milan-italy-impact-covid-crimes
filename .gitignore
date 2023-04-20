@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Ignoring geojson files
+src/data/municipalities.geojson
+src/data/provinces.geojson
+.gitignore
+src/data/regions.geojson
