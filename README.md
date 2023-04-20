@@ -1,8 +1,4 @@
-# chapter-project-repository-template
-Use this Repository as a template for creating Local Chapter Repositories
-
-
-# [Chapter Challenge Name]
+# Milan, Italy Chapter - Assessing the Impact of Covid-19 on Crime Rates in Italy
 
 
 ## Contribution Guidelines
