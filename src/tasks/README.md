@@ -9,10 +9,11 @@ Note : Please Follow the below guidelines to create task folders
 
 ### Task Table
 
-| Task No| Task Name | Details |
+| Task No| Task # & Name | Details |
 |-|-|-|
-|1|         |         |
-|2|         |         |
-|3|         |         |
-|4|         |         |
-|5|Political Rationale| The entire basis of the political rationale is to create a document upon which we could use as a basis to know if the direction of our current application is viable or not|
+|1| Task-1-data collection    | Collects all the datasets      |
+|2| Task-2-data cleaning   | Cleases all the collected datasets   |
+|3| Task-3-EDA   |Analysiese all the cleaned datasets and finds meaningful insights   | 
+|4| Task-4-Modeling | Builds ML models    |
+|5| Task-5-Deployment/dashboard | Explores the alternative and practical deployment or look for an internactive daashboards      |
+
