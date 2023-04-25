@@ -137,3 +137,7 @@ src/data/municipalities_cleaned.geojson
 src/data/provinces_cleaned.geojson
 src/data/unemployment_quartely_2004-22.csv
 src/data/unemployment_quartely_2004-22_clean.csv
+
+src/tasks/task-2-data-cleaning/ECDC_daily_covid_test.ipynb
+src/data/ECDC Daily COVID-19 Cases.csv
+src/data/WHO-COVID-19-global-data.csv
