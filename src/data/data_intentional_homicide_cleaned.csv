@@ -1,0 +1,422 @@
+Country,Indicator,Dimension,Category,Sex,Age,Year,Unit of measurement,Total crimes
+Italy,Victims of intentional homicide,Total,Total,Male,0-9,2013,Counts,5
+Italy,Victims of intentional homicide,Total,Total,Male,0-9,2014,Counts,16
+Italy,Victims of intentional homicide,Total,Total,Male,0-9,2015,Counts,3
+Italy,Victims of intentional homicide,Total,Total,Male,0-9,2016,Counts,6
+Italy,Victims of intentional homicide,Total,Total,Male,0-9,2017,Counts,6
+Italy,Victims of intentional homicide,Total,Total,Male,0-9,2018,Counts,9
+Italy,Victims of intentional homicide,Total,Total,Male,0-9,2019,Counts,10
+Italy,Victims of intentional homicide,Total,Total,Male,0-9,2020,Counts,3
+Italy,Victims of intentional homicide,Total,Total,Male,0-9,2021,Counts,8
+Italy,Victims of intentional homicide,Total,Total,Female,0-9,2013,Counts,3
+Italy,Victims of intentional homicide,Total,Total,Female,0-9,2014,Counts,9
+Italy,Victims of intentional homicide,Total,Total,Female,0-9,2015,Counts,5
+Italy,Victims of intentional homicide,Total,Total,Female,0-9,2016,Counts,9
+Italy,Victims of intentional homicide,Total,Total,Female,0-9,2017,Counts,8
+Italy,Victims of intentional homicide,Total,Total,Female,0-9,2018,Counts,4
+Italy,Victims of intentional homicide,Total,Total,Female,0-9,2019,Counts,4
+Italy,Victims of intentional homicide,Total,Total,Female,0-9,2020,Counts,4
+Italy,Victims of intentional homicide,Total,Total,Female,0-9,2021,Counts,3
+Italy,Victims of intentional homicide,Total,Total,Male,15 -17,2013,Counts,2
+Italy,Victims of intentional homicide,Total,Total,Male,15 -17,2014,Counts,3
+Italy,Victims of intentional homicide,Total,Total,Male,15 -17,2015,Counts,4
+Italy,Victims of intentional homicide,Total,Total,Male,15 -17,2016,Counts,1
+Italy,Victims of intentional homicide,Total,Total,Male,15 -17,2017,Counts,4
+Italy,Victims of intentional homicide,Total,Total,Male,15 -17,2018,Counts,1
+Italy,Victims of intentional homicide,Total,Total,Male,15 -17,2020,Counts,2
+Italy,Victims of intentional homicide,Total,Total,Male,15 -17,2021,Counts,1
+Italy,Victims of intentional homicide,Total,Total,Female,15 -17,2013,Counts,1
+Italy,Victims of intentional homicide,Total,Total,Female,15 -17,2014,Counts,1
+Italy,Victims of intentional homicide,Total,Total,Female,15 -17,2017,Counts,2
+Italy,Victims of intentional homicide,Total,Total,Female,15 -17,2018,Counts,1
+Italy,Victims of intentional homicide,Total,Total,Female,15 -17,2020,Counts,1
+Italy,Victims of intentional homicide,Total,Total,Female,15 -17,2021,Counts,3
+Italy,Victims of intentional homicide,Total,Total,Male,18-19,2013,Counts,4
+Italy,Victims of intentional homicide,Total,Total,Male,18-19,2014,Counts,3
+Italy,Victims of intentional homicide,Total,Total,Male,18-19,2015,Counts,5
+Italy,Victims of intentional homicide,Total,Total,Male,18-19,2016,Counts,4
+Italy,Victims of intentional homicide,Total,Total,Male,18-19,2017,Counts,2
+Italy,Victims of intentional homicide,Total,Total,Male,18-19,2018,Counts,4
+Italy,Victims of intentional homicide,Total,Total,Male,18-19,2019,Counts,6
+Italy,Victims of intentional homicide,Total,Total,Male,18-19,2020,Counts,3
+Italy,Victims of intentional homicide,Total,Total,Male,18-19,2021,Counts,3
+Italy,Victims of intentional homicide,Total,Total,Female,18-19,2013,Counts,5
+Italy,Victims of intentional homicide,Total,Total,Female,18-19,2014,Counts,2
+Italy,Victims of intentional homicide,Total,Total,Female,18-19,2015,Counts,2
+Italy,Victims of intentional homicide,Total,Total,Female,18-19,2016,Counts,1
+Italy,Victims of intentional homicide,Total,Total,Female,18-19,2018,Counts,4
+Italy,Victims of intentional homicide,Total,Total,Female,18-19,2019,Counts,1
+Italy,Victims of intentional homicide,Total,Total,Female,18-19,2021,Counts,1
+Italy,Victims of intentional homicide,Total,Total,Male,20-24,2013,Counts,32
+Italy,Victims of intentional homicide,Total,Total,Male,20-24,2014,Counts,18
+Italy,Victims of intentional homicide,Total,Total,Male,20-24,2015,Counts,22
+Italy,Victims of intentional homicide,Total,Total,Male,20-24,2016,Counts,15
+Italy,Victims of intentional homicide,Total,Total,Male,20-24,2017,Counts,22
+Italy,Victims of intentional homicide,Total,Total,Male,20-24,2018,Counts,20
+Italy,Victims of intentional homicide,Total,Total,Male,20-24,2019,Counts,7
+Italy,Victims of intentional homicide,Total,Total,Male,20-24,2020,Counts,11
+Italy,Victims of intentional homicide,Total,Total,Male,20-24,2021,Counts,9
+Italy,Victims of intentional homicide,Total,Total,Female,20-24,2013,Counts,7
+Italy,Victims of intentional homicide,Total,Total,Female,20-24,2014,Counts,3
+Italy,Victims of intentional homicide,Total,Total,Female,20-24,2015,Counts,9
+Italy,Victims of intentional homicide,Total,Total,Female,20-24,2016,Counts,6
+Italy,Victims of intentional homicide,Total,Total,Female,20-24,2017,Counts,8
+Italy,Victims of intentional homicide,Total,Total,Female,20-24,2018,Counts,6
+Italy,Victims of intentional homicide,Total,Total,Female,20-24,2019,Counts,2
+Italy,Victims of intentional homicide,Total,Total,Female,20-24,2021,Counts,3
+Italy,Victims of intentional homicide,Total,Total,Male,25-29,2013,Counts,30
+Italy,Victims of intentional homicide,Total,Total,Male,25-29,2014,Counts,33
+Italy,Victims of intentional homicide,Total,Total,Male,25-29,2015,Counts,31
+Italy,Victims of intentional homicide,Total,Total,Male,25-29,2016,Counts,19
+Italy,Victims of intentional homicide,Total,Total,Male,25-29,2017,Counts,18
+Italy,Victims of intentional homicide,Total,Total,Male,25-29,2018,Counts,16
+Italy,Victims of intentional homicide,Total,Total,Male,25-29,2019,Counts,17
+Italy,Victims of intentional homicide,Total,Total,Male,25-29,2020,Counts,12
+Italy,Victims of intentional homicide,Total,Total,Male,25-29,2021,Counts,19
+Italy,Victims of intentional homicide,Total,Total,Female,25-29,2013,Counts,14
+Italy,Victims of intentional homicide,Total,Total,Female,25-29,2014,Counts,15
+Italy,Victims of intentional homicide,Total,Total,Female,25-29,2015,Counts,4
+Italy,Victims of intentional homicide,Total,Total,Female,25-29,2016,Counts,13
+Italy,Victims of intentional homicide,Total,Total,Female,25-29,2017,Counts,3
+Italy,Victims of intentional homicide,Total,Total,Female,25-29,2018,Counts,5
+Italy,Victims of intentional homicide,Total,Total,Female,25-29,2019,Counts,7
+Italy,Victims of intentional homicide,Total,Total,Female,25-29,2020,Counts,6
+Italy,Victims of intentional homicide,Total,Total,Female,25-29,2021,Counts,6
+Italy,Victims of intentional homicide,Total,Total,Male,30-44,2010,Counts,141
+Italy,Victims of intentional homicide,Total,Total,Male,30-44,2011,Counts,136
+Italy,Victims of intentional homicide,Total,Total,Male,30-44,2012,Counts,113
+Italy,Victims of intentional homicide,Total,Total,Male,30-44,2013,Counts,106
+Italy,Victims of intentional homicide,Total,Total,Male,30-44,2014,Counts,110
+Italy,Victims of intentional homicide,Total,Total,Male,30-44,2015,Counts,104
+Italy,Victims of intentional homicide,Total,Total,Male,30-44,2016,Counts,89
+Italy,Victims of intentional homicide,Total,Total,Male,30-44,2017,Counts,62
+Italy,Victims of intentional homicide,Total,Total,Male,30-44,2018,Counts,63
+Italy,Victims of intentional homicide,Total,Total,Male,30-44,2019,Counts,54
+Italy,Victims of intentional homicide,Total,Total,Male,30-44,2020,Counts,54
+Italy,Victims of intentional homicide,Total,Total,Male,30-44,2021,Counts,46
+Italy,Victims of intentional homicide,Total,Total,Female,30-44,2010,Counts,41
+Italy,Victims of intentional homicide,Total,Total,Female,30-44,2011,Counts,41
+Italy,Victims of intentional homicide,Total,Total,Female,30-44,2012,Counts,37
+Italy,Victims of intentional homicide,Total,Total,Female,30-44,2013,Counts,34
+Italy,Victims of intentional homicide,Total,Total,Female,30-44,2014,Counts,31
+Italy,Victims of intentional homicide,Total,Total,Female,30-44,2015,Counts,37
+Italy,Victims of intentional homicide,Total,Total,Female,30-44,2016,Counts,26
+Italy,Victims of intentional homicide,Total,Total,Female,30-44,2017,Counts,28
+Italy,Victims of intentional homicide,Total,Total,Female,30-44,2018,Counts,27
+Italy,Victims of intentional homicide,Total,Total,Female,30-44,2019,Counts,29
+Italy,Victims of intentional homicide,Total,Total,Female,30-44,2020,Counts,32
+Italy,Victims of intentional homicide,Total,Total,Female,30-44,2021,Counts,23
+Italy,Victims of intentional homicide,Total,Total,Male,45-59,2010,Counts,93
+Italy,Victims of intentional homicide,Total,Total,Male,45-59,2011,Counts,85
+Italy,Victims of intentional homicide,Total,Total,Male,45-59,2012,Counts,95
+Italy,Victims of intentional homicide,Total,Total,Male,45-59,2013,Counts,87
+Italy,Victims of intentional homicide,Total,Total,Male,45-59,2014,Counts,77
+Italy,Victims of intentional homicide,Total,Total,Male,45-59,2015,Counts,95
+Italy,Victims of intentional homicide,Total,Total,Male,45-59,2016,Counts,74
+Italy,Victims of intentional homicide,Total,Total,Male,45-59,2017,Counts,87
+Italy,Victims of intentional homicide,Total,Total,Male,45-59,2018,Counts,58
+Italy,Victims of intentional homicide,Total,Total,Male,45-59,2019,Counts,59
+Italy,Victims of intentional homicide,Total,Total,Male,45-59,2020,Counts,47
+Italy,Victims of intentional homicide,Total,Total,Male,45-59,2021,Counts,54
+Italy,Victims of intentional homicide,Total,Total,Female,45-59,2010,Counts,36
+Italy,Victims of intentional homicide,Total,Total,Female,45-59,2011,Counts,39
+Italy,Victims of intentional homicide,Total,Total,Female,45-59,2012,Counts,21
+Italy,Victims of intentional homicide,Total,Total,Female,45-59,2013,Counts,44
+Italy,Victims of intentional homicide,Total,Total,Female,45-59,2014,Counts,30
+Italy,Victims of intentional homicide,Total,Total,Female,45-59,2015,Counts,41
+Italy,Victims of intentional homicide,Total,Total,Female,45-59,2016,Counts,38
+Italy,Victims of intentional homicide,Total,Total,Female,45-59,2017,Counts,31
+Italy,Victims of intentional homicide,Total,Total,Female,45-59,2018,Counts,33
+Italy,Victims of intentional homicide,Total,Total,Female,45-59,2019,Counts,26
+Italy,Victims of intentional homicide,Total,Total,Female,45-59,2020,Counts,31
+Italy,Victims of intentional homicide,Total,Total,Female,45-59,2021,Counts,23
+Italy,Victims of intentional homicide,Total,Total,Male,60 and older,2010,Counts,56
+Italy,Victims of intentional homicide,Total,Total,Male,60 and older,2011,Counts,62
+Italy,Victims of intentional homicide,Total,Total,Male,60 and older,2012,Counts,63
+Italy,Victims of intentional homicide,Total,Total,Male,60 and older,2013,Counts,58
+Italy,Victims of intentional homicide,Total,Total,Male,60 and older,2014,Counts,71
+Italy,Victims of intentional homicide,Total,Total,Male,60 and older,2015,Counts,63
+Italy,Victims of intentional homicide,Total,Total,Male,60 and older,2016,Counts,44
+Italy,Victims of intentional homicide,Total,Total,Male,60 and older,2017,Counts,41
+Italy,Victims of intentional homicide,Total,Total,Male,60 and older,2018,Counts,46
+Italy,Victims of intentional homicide,Total,Total,Male,60 and older,2019,Counts,53
+Italy,Victims of intentional homicide,Total,Total,Male,60 and older,2020,Counts,34
+Italy,Victims of intentional homicide,Total,Total,Male,60 and older,2021,Counts,42
+Italy,Victims of intentional homicide,Total,Total,Female,60 and older,2010,Counts,50
+Italy,Victims of intentional homicide,Total,Total,Female,60 and older,2011,Counts,47
+Italy,Victims of intentional homicide,Total,Total,Female,60 and older,2012,Counts,60
+Italy,Victims of intentional homicide,Total,Total,Female,60 and older,2013,Counts,72
+Italy,Victims of intentional homicide,Total,Total,Female,60 and older,2014,Counts,57
+Italy,Victims of intentional homicide,Total,Total,Female,60 and older,2015,Counts,45
+Italy,Victims of intentional homicide,Total,Total,Female,60 and older,2016,Counts,54
+Italy,Victims of intentional homicide,Total,Total,Female,60 and older,2017,Counts,51
+Italy,Victims of intentional homicide,Total,Total,Female,60 and older,2018,Counts,59
+Italy,Victims of intentional homicide,Total,Total,Female,60 and older,2019,Counts,41
+Italy,Victims of intentional homicide,Total,Total,Female,60 and older,2020,Counts,41
+Italy,Victims of intentional homicide,Total,Total,Female,60 and older,2021,Counts,55
+Italy,Victims of intentional homicide,Total,Total,Male,0-9,2013,"Rate per 100,000 population",0
+Italy,Victims of intentional homicide,Total,Total,Male,0-9,2014,"Rate per 100,000 population",1
+Italy,Victims of intentional homicide,Total,Total,Male,0-9,2015,"Rate per 100,000 population",0
+Italy,Victims of intentional homicide,Total,Total,Male,0-9,2016,"Rate per 100,000 population",0
+Italy,Victims of intentional homicide,Total,Total,Male,0-9,2017,"Rate per 100,000 population",0
+Italy,Victims of intentional homicide,Total,Total,Male,0-9,2018,"Rate per 100,000 population",0
+Italy,Victims of intentional homicide,Total,Total,Male,0-9,2019,"Rate per 100,000 population",0
+Italy,Victims of intentional homicide,Total,Total,Male,0-9,2020,"Rate per 100,000 population",0
+Italy,Victims of intentional homicide,Total,Total,Male,0-9,2021,"Rate per 100,000 population",0
+Italy,Victims of intentional homicide,Total,Total,Female,0-9,2013,"Rate per 100,000 population",0
+Italy,Victims of intentional homicide,Total,Total,Female,0-9,2014,"Rate per 100,000 population",0
+Italy,Victims of intentional homicide,Total,Total,Female,0-9,2015,"Rate per 100,000 population",0
+Italy,Victims of intentional homicide,Total,Total,Female,0-9,2016,"Rate per 100,000 population",0
+Italy,Victims of intentional homicide,Total,Total,Female,0-9,2017,"Rate per 100,000 population",0
+Italy,Victims of intentional homicide,Total,Total,Female,0-9,2018,"Rate per 100,000 population",0
+Italy,Victims of intentional homicide,Total,Total,Female,0-9,2019,"Rate per 100,000 population",0
+Italy,Victims of intentional homicide,Total,Total,Female,0-9,2020,"Rate per 100,000 population",0
+Italy,Victims of intentional homicide,Total,Total,Female,0-9,2021,"Rate per 100,000 population",0
+Italy,Victims of intentional homicide,Total,Total,Male,18-19,2013,"Rate per 100,000 population",1
+Italy,Victims of intentional homicide,Total,Total,Male,18-19,2014,"Rate per 100,000 population",1
+Italy,Victims of intentional homicide,Total,Total,Male,18-19,2015,"Rate per 100,000 population",1
+Italy,Victims of intentional homicide,Total,Total,Male,18-19,2016,"Rate per 100,000 population",1
+Italy,Victims of intentional homicide,Total,Total,Male,18-19,2017,"Rate per 100,000 population",0
+Italy,Victims of intentional homicide,Total,Total,Male,18-19,2018,"Rate per 100,000 population",1
+Italy,Victims of intentional homicide,Total,Total,Male,18-19,2019,"Rate per 100,000 population",1
+Italy,Victims of intentional homicide,Total,Total,Male,18-19,2020,"Rate per 100,000 population",1
+Italy,Victims of intentional homicide,Total,Total,Male,18-19,2021,"Rate per 100,000 population",1
+Italy,Victims of intentional homicide,Total,Total,Female,18-19,2013,"Rate per 100,000 population",1
+Italy,Victims of intentional homicide,Total,Total,Female,18-19,2014,"Rate per 100,000 population",0
+Italy,Victims of intentional homicide,Total,Total,Female,18-19,2015,"Rate per 100,000 population",0
+Italy,Victims of intentional homicide,Total,Total,Female,18-19,2016,"Rate per 100,000 population",0
+Italy,Victims of intentional homicide,Total,Total,Female,18-19,2018,"Rate per 100,000 population",1
+Italy,Victims of intentional homicide,Total,Total,Female,18-19,2019,"Rate per 100,000 population",0
+Italy,Victims of intentional homicide,Total,Total,Female,18-19,2021,"Rate per 100,000 population",0
+Italy,Victims of intentional homicide,Total,Total,Male,20-24,2013,"Rate per 100,000 population",2
+Italy,Victims of intentional homicide,Total,Total,Male,20-24,2014,"Rate per 100,000 population",1
+Italy,Victims of intentional homicide,Total,Total,Male,20-24,2015,"Rate per 100,000 population",1
+Italy,Victims of intentional homicide,Total,Total,Male,20-24,2016,"Rate per 100,000 population",1
+Italy,Victims of intentional homicide,Total,Total,Male,20-24,2017,"Rate per 100,000 population",1
+Italy,Victims of intentional homicide,Total,Total,Male,20-24,2018,"Rate per 100,000 population",1
+Italy,Victims of intentional homicide,Total,Total,Male,20-24,2019,"Rate per 100,000 population",0
+Italy,Victims of intentional homicide,Total,Total,Male,20-24,2020,"Rate per 100,000 population",1
+Italy,Victims of intentional homicide,Total,Total,Male,20-24,2021,"Rate per 100,000 population",1
+Italy,Victims of intentional homicide,Total,Total,Female,20-24,2013,"Rate per 100,000 population",0
+Italy,Victims of intentional homicide,Total,Total,Female,20-24,2014,"Rate per 100,000 population",0
+Italy,Victims of intentional homicide,Total,Total,Female,20-24,2015,"Rate per 100,000 population",1
+Italy,Victims of intentional homicide,Total,Total,Female,20-24,2016,"Rate per 100,000 population",0
+Italy,Victims of intentional homicide,Total,Total,Female,20-24,2017,"Rate per 100,000 population",1
+Italy,Victims of intentional homicide,Total,Total,Female,20-24,2018,"Rate per 100,000 population",0
+Italy,Victims of intentional homicide,Total,Total,Female,20-24,2019,"Rate per 100,000 population",0
+Italy,Victims of intentional homicide,Total,Total,Female,20-24,2021,"Rate per 100,000 population",0
+Italy,Victims of intentional homicide,Total,Total,Male,25-29,2013,"Rate per 100,000 population",2
+Italy,Victims of intentional homicide,Total,Total,Male,25-29,2014,"Rate per 100,000 population",2
+Italy,Victims of intentional homicide,Total,Total,Male,25-29,2015,"Rate per 100,000 population",2
+Italy,Victims of intentional homicide,Total,Total,Male,25-29,2016,"Rate per 100,000 population",1
+Italy,Victims of intentional homicide,Total,Total,Male,25-29,2017,"Rate per 100,000 population",1
+Italy,Victims of intentional homicide,Total,Total,Male,25-29,2018,"Rate per 100,000 population",1
+Italy,Victims of intentional homicide,Total,Total,Male,25-29,2019,"Rate per 100,000 population",1
+Italy,Victims of intentional homicide,Total,Total,Male,25-29,2020,"Rate per 100,000 population",1
+Italy,Victims of intentional homicide,Total,Total,Male,25-29,2021,"Rate per 100,000 population",1
+Italy,Victims of intentional homicide,Total,Total,Female,25-29,2013,"Rate per 100,000 population",1
+Italy,Victims of intentional homicide,Total,Total,Female,25-29,2014,"Rate per 100,000 population",1
+Italy,Victims of intentional homicide,Total,Total,Female,25-29,2015,"Rate per 100,000 population",0
+Italy,Victims of intentional homicide,Total,Total,Female,25-29,2016,"Rate per 100,000 population",1
+Italy,Victims of intentional homicide,Total,Total,Female,25-29,2017,"Rate per 100,000 population",0
+Italy,Victims of intentional homicide,Total,Total,Female,25-29,2018,"Rate per 100,000 population",0
+Italy,Victims of intentional homicide,Total,Total,Female,25-29,2019,"Rate per 100,000 population",0
+Italy,Victims of intentional homicide,Total,Total,Female,25-29,2020,"Rate per 100,000 population",0
+Italy,Victims of intentional homicide,Total,Total,Female,25-29,2021,"Rate per 100,000 population",0
+Italy,Victims of intentional homicide,Total,Total,Male,30-44,2010,"Rate per 100,000 population",2
+Italy,Victims of intentional homicide,Total,Total,Male,30-44,2011,"Rate per 100,000 population",2
+Italy,Victims of intentional homicide,Total,Total,Male,30-44,2012,"Rate per 100,000 population",2
+Italy,Victims of intentional homicide,Total,Total,Male,30-44,2013,"Rate per 100,000 population",2
+Italy,Victims of intentional homicide,Total,Total,Male,30-44,2014,"Rate per 100,000 population",2
+Italy,Victims of intentional homicide,Total,Total,Male,30-44,2015,"Rate per 100,000 population",2
+Italy,Victims of intentional homicide,Total,Total,Male,30-44,2016,"Rate per 100,000 population",1
+Italy,Victims of intentional homicide,Total,Total,Male,30-44,2017,"Rate per 100,000 population",1
+Italy,Victims of intentional homicide,Total,Total,Male,30-44,2018,"Rate per 100,000 population",1
+Italy,Victims of intentional homicide,Total,Total,Male,30-44,2019,"Rate per 100,000 population",1
+Italy,Victims of intentional homicide,Total,Total,Male,30-44,2020,"Rate per 100,000 population",1
+Italy,Victims of intentional homicide,Total,Total,Male,30-44,2021,"Rate per 100,000 population",1
+Italy,Victims of intentional homicide,Total,Total,Female,30-44,2010,"Rate per 100,000 population",1
+Italy,Victims of intentional homicide,Total,Total,Female,30-44,2011,"Rate per 100,000 population",1
+Italy,Victims of intentional homicide,Total,Total,Female,30-44,2012,"Rate per 100,000 population",1
+Italy,Victims of intentional homicide,Total,Total,Female,30-44,2013,"Rate per 100,000 population",1
+Italy,Victims of intentional homicide,Total,Total,Female,30-44,2014,"Rate per 100,000 population",0
+Italy,Victims of intentional homicide,Total,Total,Female,30-44,2015,"Rate per 100,000 population",1
+Italy,Victims of intentional homicide,Total,Total,Female,30-44,2016,"Rate per 100,000 population",0
+Italy,Victims of intentional homicide,Total,Total,Female,30-44,2017,"Rate per 100,000 population",0
+Italy,Victims of intentional homicide,Total,Total,Female,30-44,2018,"Rate per 100,000 population",0
+Italy,Victims of intentional homicide,Total,Total,Female,30-44,2019,"Rate per 100,000 population",1
+Italy,Victims of intentional homicide,Total,Total,Female,30-44,2020,"Rate per 100,000 population",1
+Italy,Victims of intentional homicide,Total,Total,Female,30-44,2021,"Rate per 100,000 population",0
+Italy,Victims of intentional homicide,Total,Total,Male,45-59,2010,"Rate per 100,000 population",2
+Italy,Victims of intentional homicide,Total,Total,Male,45-59,2011,"Rate per 100,000 population",1
+Italy,Victims of intentional homicide,Total,Total,Male,45-59,2012,"Rate per 100,000 population",1
+Italy,Victims of intentional homicide,Total,Total,Male,45-59,2013,"Rate per 100,000 population",1
+Italy,Victims of intentional homicide,Total,Total,Male,45-59,2014,"Rate per 100,000 population",1
+Italy,Victims of intentional homicide,Total,Total,Male,45-59,2015,"Rate per 100,000 population",1
+Italy,Victims of intentional homicide,Total,Total,Male,45-59,2016,"Rate per 100,000 population",1
+Italy,Victims of intentional homicide,Total,Total,Male,45-59,2017,"Rate per 100,000 population",1
+Italy,Victims of intentional homicide,Total,Total,Male,45-59,2018,"Rate per 100,000 population",1
+Italy,Victims of intentional homicide,Total,Total,Male,45-59,2019,"Rate per 100,000 population",1
+Italy,Victims of intentional homicide,Total,Total,Male,45-59,2020,"Rate per 100,000 population",1
+Italy,Victims of intentional homicide,Total,Total,Male,45-59,2021,"Rate per 100,000 population",1
+Italy,Victims of intentional homicide,Total,Total,Female,45-59,2010,"Rate per 100,000 population",1
+Italy,Victims of intentional homicide,Total,Total,Female,45-59,2011,"Rate per 100,000 population",1
+Italy,Victims of intentional homicide,Total,Total,Female,45-59,2012,"Rate per 100,000 population",0
+Italy,Victims of intentional homicide,Total,Total,Female,45-59,2013,"Rate per 100,000 population",1
+Italy,Victims of intentional homicide,Total,Total,Female,45-59,2014,"Rate per 100,000 population",0
+Italy,Victims of intentional homicide,Total,Total,Female,45-59,2015,"Rate per 100,000 population",1
+Italy,Victims of intentional homicide,Total,Total,Female,45-59,2016,"Rate per 100,000 population",1
+Italy,Victims of intentional homicide,Total,Total,Female,45-59,2017,"Rate per 100,000 population",0
+Italy,Victims of intentional homicide,Total,Total,Female,45-59,2018,"Rate per 100,000 population",0
+Italy,Victims of intentional homicide,Total,Total,Female,45-59,2019,"Rate per 100,000 population",0
+Italy,Victims of intentional homicide,Total,Total,Female,45-59,2020,"Rate per 100,000 population",0
+Italy,Victims of intentional homicide,Total,Total,Female,45-59,2021,"Rate per 100,000 population",0
+Italy,Victims of intentional homicide,Total,Total,Male,60 and older,2010,"Rate per 100,000 population",1
+Italy,Victims of intentional homicide,Total,Total,Male,60 and older,2011,"Rate per 100,000 population",1
+Italy,Victims of intentional homicide,Total,Total,Male,60 and older,2012,"Rate per 100,000 population",1
+Italy,Victims of intentional homicide,Total,Total,Male,60 and older,2013,"Rate per 100,000 population",1
+Italy,Victims of intentional homicide,Total,Total,Male,60 and older,2014,"Rate per 100,000 population",1
+Italy,Victims of intentional homicide,Total,Total,Male,60 and older,2015,"Rate per 100,000 population",1
+Italy,Victims of intentional homicide,Total,Total,Male,60 and older,2016,"Rate per 100,000 population",1
+Italy,Victims of intentional homicide,Total,Total,Male,60 and older,2017,"Rate per 100,000 population",1
+Italy,Victims of intentional homicide,Total,Total,Male,60 and older,2018,"Rate per 100,000 population",1
+Italy,Victims of intentional homicide,Total,Total,Male,60 and older,2019,"Rate per 100,000 population",1
+Italy,Victims of intentional homicide,Total,Total,Male,60 and older,2020,"Rate per 100,000 population",0
+Italy,Victims of intentional homicide,Total,Total,Male,60 and older,2021,"Rate per 100,000 population",1
+Italy,Victims of intentional homicide,Total,Total,Female,60 and older,2010,"Rate per 100,000 population",1
+Italy,Victims of intentional homicide,Total,Total,Female,60 and older,2011,"Rate per 100,000 population",1
+Italy,Victims of intentional homicide,Total,Total,Female,60 and older,2012,"Rate per 100,000 population",1
+Italy,Victims of intentional homicide,Total,Total,Female,60 and older,2013,"Rate per 100,000 population",1
+Italy,Victims of intentional homicide,Total,Total,Female,60 and older,2014,"Rate per 100,000 population",1
+Italy,Victims of intentional homicide,Total,Total,Female,60 and older,2015,"Rate per 100,000 population",0
+Italy,Victims of intentional homicide,Total,Total,Female,60 and older,2016,"Rate per 100,000 population",1
+Italy,Victims of intentional homicide,Total,Total,Female,60 and older,2017,"Rate per 100,000 population",1
+Italy,Victims of intentional homicide,Total,Total,Female,60 and older,2018,"Rate per 100,000 population",1
+Italy,Victims of intentional homicide,Total,Total,Female,60 and older,2019,"Rate per 100,000 population",0
+Italy,Victims of intentional homicide,Total,Total,Female,60 and older,2020,"Rate per 100,000 population",0
+Italy,Victims of intentional homicide,Total,Total,Female,60 and older,2021,"Rate per 100,000 population",1
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Female,25-29,2010,Counts,17
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Female,30-44,2010,Counts,15
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Female,45-59,2010,Counts,13
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Female,60 and older,2010,Counts,11
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Female,25-29,2011,Counts,11
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Female,30-44,2011,Counts,20
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Female,45-59,2011,Counts,10
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Female,60 and older,2011,Counts,11
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Female,25-29,2012,Counts,17
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Female,30-44,2012,Counts,14
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Female,45-59,2012,Counts,10
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Female,60 and older,2012,Counts,11
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Female,25-29,2013,Counts,14
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Female,30-44,2013,Counts,17
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Female,45-59,2013,Counts,10
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Female,60 and older,2013,Counts,11
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Female,25-29,2014,Counts,7
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Female,30-44,2014,Counts,31
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Female,45-59,2014,Counts,18
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Female,60 and older,2014,Counts,6
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Female,15 -17,2015,Counts,6
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Female,18-19,2015,Counts,1
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Female,20-24,2015,Counts,8
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Female,25-29,2015,Counts,6
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Female,30-44,2015,Counts,21
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Female,45-59,2015,Counts,24
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Female,60 and older,2015,Counts,8
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Female,15 -17,2016,Counts,2
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Female,18-19,2016,Counts,1
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Female,20-24,2016,Counts,7
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Female,25-29,2016,Counts,3
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Female,30-44,2016,Counts,33
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Female,45-59,2016,Counts,32
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Female,60 and older,2016,Counts,3
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Female,15 -17,2017,Counts,1
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Female,18-19,2017,Counts,1
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Female,20-24,2017,Counts,4
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Female,25-29,2017,Counts,6
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Female,30-44,2017,Counts,36
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Female,45-59,2017,Counts,18
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Female,60 and older,2017,Counts,5
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Female,15 -17,2018,Counts,1
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Female,18-19,2018,Counts,3
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Female,20-24,2018,Counts,4
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Female,25-29,2018,Counts,5
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Female,30-44,2018,Counts,22
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Female,45-59,2018,Counts,7
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Female,60 and older,2018,Counts,6
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Female,15 -17,2019,Counts,2
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Female,18-19,2019,Counts,1
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Female,20-24,2019,Counts,7
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Female,25-29,2019,Counts,10
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Female,30-44,2019,Counts,24
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Female,45-59,2019,Counts,16
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Female,60 and older,2019,Counts,9
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Female,15 -17,2020,Counts,2
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Female,18-19,2020,Counts,1
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Female,20-24,2020,Counts,2
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Female,25-29,2020,Counts,9
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Female,30-44,2020,Counts,21
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Female,45-59,2020,Counts,9
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Female,60 and older,2020,Counts,7
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Male,25-29,2010,Counts,325
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Male,30-44,2010,Counts,203
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Male,45-59,2010,Counts,124
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Male,60 and older,2010,Counts,99
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Male,25-29,2011,Counts,282
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Male,30-44,2011,Counts,204
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Male,45-59,2011,Counts,108
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Male,60 and older,2011,Counts,88
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Male,25-29,2012,Counts,343
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Male,30-44,2012,Counts,217
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Male,45-59,2012,Counts,111
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Male,60 and older,2012,Counts,87
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Male,25-29,2013,Counts,291
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Male,30-44,2013,Counts,208
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Male,45-59,2013,Counts,102
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Male,60 and older,2013,Counts,85
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Male,25-29,2014,Counts,139
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Male,30-44,2014,Counts,387
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Male,45-59,2014,Counts,172
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Male,60 and older,2014,Counts,77
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Male,15 -17,2015,Counts,26
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Male,18-19,2015,Counts,56
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Male,20-24,2015,Counts,160
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Male,25-29,2015,Counts,152
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Male,30-44,2015,Counts,335
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Male,45-59,2015,Counts,181
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Male,60 and older,2015,Counts,74
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Male,0-9,2016,Counts,7
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Male,15 -17,2016,Counts,23
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Male,18-19,2016,Counts,43
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Male,20-24,2016,Counts,146
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Male,25-29,2016,Counts,144
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Male,30-44,2016,Counts,311
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Male,45-59,2016,Counts,188
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Male,60 and older,2016,Counts,84
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Male,15 -17,2017,Counts,34
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Male,18-19,2017,Counts,38
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Male,20-24,2017,Counts,133
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Male,25-29,2017,Counts,159
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Male,30-44,2017,Counts,344
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Male,45-59,2017,Counts,145
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Male,60 and older,2017,Counts,63
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Male,15 -17,2018,Counts,15
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Male,18-19,2018,Counts,31
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Male,20-24,2018,Counts,101
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Male,25-29,2018,Counts,122
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Male,30-44,2018,Counts,285
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Male,45-59,2018,Counts,155
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Male,60 and older,2018,Counts,79
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Male,15 -17,2019,Counts,16
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Male,18-19,2019,Counts,38
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Male,20-24,2019,Counts,135
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Male,25-29,2019,Counts,154
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Male,30-44,2019,Counts,338
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Male,45-59,2019,Counts,140
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Male,60 and older,2019,Counts,64
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Male,15 -17,2020,Counts,8
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Male,18-19,2020,Counts,28
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Male,20-24,2020,Counts,100
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Male,25-29,2020,Counts,129
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Male,30-44,2020,Counts,295
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Male,45-59,2020,Counts,148
+Italy,Persons arrested/suspected for intentional homicide,Total,Total,Male,60 and older,2020,Counts,72
