@@ -143,3 +143,4 @@ data_types.json
 dataflow.csv
 dataflow.xlsx
 justice.json
+src/tasks/task-2-data-cleaning/geodata/map_example.ipynb

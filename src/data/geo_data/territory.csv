@@ -1,0 +1,135 @@
+Territory_Code,Territory_Name,REATIPS_VICES,Crime_Type,Year,Number_of_Crime
+IT,Italy,MASSMURD,mass murder,2017-01-01,17
+ITC,Nord-ovest,MASSMURD,mass murder,2017-01-01,3
+ITC1,Piemonte,MASSMURD,mass murder,2017-01-01,1
+ITC11,Torino,MASSMURD,mass murder,2017-01-01,1
+ITC12,Vercelli,MASSMURD,mass murder,2017-01-01,0
+ITC13,Biella,MASSMURD,mass murder,2017-01-01,0
+ITC14,Verbano-Cusio-Ossola,MASSMURD,mass murder,2017-01-01,0
+ITC15,Novara,MASSMURD,mass murder,2017-01-01,0
+ITC16,Cuneo,MASSMURD,mass murder,2017-01-01,0
+ITC17,Asti,MASSMURD,mass murder,2017-01-01,0
+ITC18,Alessandria,MASSMURD,mass murder,2017-01-01,0
+ITC2,Valle d'Aosta / Vallée d'Aoste,MASSMURD,mass murder,2017-01-01,0
+ITC20,Valle d'Aosta / Vallée d'Aoste,MASSMURD,mass murder,2017-01-01,0
+ITC3,Liguria,MASSMURD,mass murder,2017-01-01,1
+ITC31,Imperia,MASSMURD,mass murder,2017-01-01,0
+ITC32,Savona,MASSMURD,mass murder,2017-01-01,0
+ITC33,Genova,MASSMURD,mass murder,2017-01-01,1
+ITC34,La Spezia,MASSMURD,mass murder,2017-01-01,0
+ITC4,Lombardia,MASSMURD,mass murder,2017-01-01,1
+ITC41,Varese,MASSMURD,mass murder,2017-01-01,0
+ITC42,Como,MASSMURD,mass murder,2017-01-01,0
+ITC43,Lecco,MASSMURD,mass murder,2017-01-01,0
+ITC44,Sondrio,MASSMURD,mass murder,2017-01-01,0
+ITC45,Milano,MASSMURD,mass murder,2017-01-01,1
+ITC46,Bergamo,MASSMURD,mass murder,2017-01-01,0
+ITC47,Brescia,MASSMURD,mass murder,2017-01-01,0
+ITC48,Pavia,MASSMURD,mass murder,2017-01-01,0
+ITC49,Lodi,MASSMURD,mass murder,2017-01-01,0
+ITC4A,Cremona,MASSMURD,mass murder,2017-01-01,0
+ITC4B,Mantova,MASSMURD,mass murder,2017-01-01,0
+ITD,Nord-est,MASSMURD,mass murder,2017-01-01,1
+ITDA,Trentino Alto Adige / Südtirol,MASSMURD,mass murder,2017-01-01,1
+ITD1,Provincia Autonoma Bolzano / Bozen,MASSMURD,mass murder,2017-01-01,0
+ITD10,Bolzano / Bozen,MASSMURD,mass murder,2017-01-01,0
+ITD2,Provincia Autonoma Trento,MASSMURD,mass murder,2017-01-01,1
+ITD20,Trento,MASSMURD,mass murder,2017-01-01,1
+ITD3,Veneto,MASSMURD,mass murder,2017-01-01,0
+ITD31,Verona,MASSMURD,mass murder,2017-01-01,0
+ITD32,Vicenza,MASSMURD,mass murder,2017-01-01,0
+ITD33,Belluno,MASSMURD,mass murder,2017-01-01,0
+ITD34,Treviso,MASSMURD,mass murder,2017-01-01,0
+ITD35,Venezia,MASSMURD,mass murder,2017-01-01,0
+ITD36,Padova,MASSMURD,mass murder,2017-01-01,0
+ITD37,Rovigo,MASSMURD,mass murder,2017-01-01,0
+ITD4,Friuli-Venezia Giulia,MASSMURD,mass murder,2017-01-01,0
+ITD41,Pordenone,MASSMURD,mass murder,2017-01-01,0
+ITD42,Udine,MASSMURD,mass murder,2017-01-01,0
+ITD43,Gorizia,MASSMURD,mass murder,2017-01-01,0
+ITD44,Trieste,MASSMURD,mass murder,2017-01-01,0
+ITD5,Emilia-Romagna,MASSMURD,mass murder,2017-01-01,0
+ITD51,Piacenza,MASSMURD,mass murder,2017-01-01,0
+ITD52,Parma,MASSMURD,mass murder,2017-01-01,0
+ITD53,Reggio nell'Emilia,MASSMURD,mass murder,2017-01-01,0
+ITD54,Modena,MASSMURD,mass murder,2017-01-01,0
+ITD55,Bologna,MASSMURD,mass murder,2017-01-01,0
+ITD56,Ferrara,MASSMURD,mass murder,2017-01-01,0
+ITD57,Ravenna,MASSMURD,mass murder,2017-01-01,0
+ITD58,Forlì-Cesena,MASSMURD,mass murder,2017-01-01,0
+ITD59,Rimini,MASSMURD,mass murder,2017-01-01,0
+ITE,Centro (I),MASSMURD,mass murder,2017-01-01,2
+ITE1,Toscana,MASSMURD,mass murder,2017-01-01,1
+ITE11,Massa-Carrara,MASSMURD,mass murder,2017-01-01,0
+ITE12,Lucca,MASSMURD,mass murder,2017-01-01,0
+ITE13,Pistoia,MASSMURD,mass murder,2017-01-01,0
+ITE14,Firenze,MASSMURD,mass murder,2017-01-01,0
+ITE15,Prato,MASSMURD,mass murder,2017-01-01,0
+ITE16,Livorno,MASSMURD,mass murder,2017-01-01,1
+ITE17,Pisa,MASSMURD,mass murder,2017-01-01,0
+ITE18,Arezzo,MASSMURD,mass murder,2017-01-01,0
+ITE19,Siena,MASSMURD,mass murder,2017-01-01,0
+ITE1A,Grosseto,MASSMURD,mass murder,2017-01-01,0
+ITE2,Umbria,MASSMURD,mass murder,2017-01-01,0
+ITE21,Perugia,MASSMURD,mass murder,2017-01-01,0
+ITE22,Terni,MASSMURD,mass murder,2017-01-01,0
+ITE3,Marche,MASSMURD,mass murder,2017-01-01,0
+ITE31,Pesaro e Urbino,MASSMURD,mass murder,2017-01-01,0
+ITE32,Ancona,MASSMURD,mass murder,2017-01-01,0
+ITE33,Macerata,MASSMURD,mass murder,2017-01-01,0
+ITE34,Ascoli Piceno,MASSMURD,mass murder,2017-01-01,0
+ITE4,Lazio,MASSMURD,mass murder,2017-01-01,1
+ITE41,Viterbo,MASSMURD,mass murder,2017-01-01,0
+ITE42,Rieti,MASSMURD,mass murder,2017-01-01,0
+ITE43,Roma,MASSMURD,mass murder,2017-01-01,0
+ITE44,Latina,MASSMURD,mass murder,2017-01-01,1
+ITE45,Frosinone,MASSMURD,mass murder,2017-01-01,0
+ITF,Sud,MASSMURD,mass murder,2017-01-01,2
+ITF1,Abruzzo,MASSMURD,mass murder,2017-01-01,0
+ITF11,L'Aquila,MASSMURD,mass murder,2017-01-01,0
+ITF12,Teramo,MASSMURD,mass murder,2017-01-01,0
+ITF13,Pescara,MASSMURD,mass murder,2017-01-01,0
+ITF14,Chieti,MASSMURD,mass murder,2017-01-01,0
+ITF2,Molise,MASSMURD,mass murder,2017-01-01,0
+ITF21,Isernia,MASSMURD,mass murder,2017-01-01,0
+ITF22,Campobasso,MASSMURD,mass murder,2017-01-01,0
+ITF3,Campania,MASSMURD,mass murder,2017-01-01,0
+ITF31,Caserta,MASSMURD,mass murder,2017-01-01,0
+ITF32,Benevento,MASSMURD,mass murder,2017-01-01,0
+ITF33,Napoli,MASSMURD,mass murder,2017-01-01,0
+ITF34,Avellino,MASSMURD,mass murder,2017-01-01,0
+ITF35,Salerno,MASSMURD,mass murder,2017-01-01,0
+ITF4,Puglia,MASSMURD,mass murder,2017-01-01,1
+ITF41,Foggia,MASSMURD,mass murder,2017-01-01,0
+ITF42,Bari,MASSMURD,mass murder,2017-01-01,1
+ITF43,Taranto,INTENHOM,intentional homicides,2017-01-01,7
+ITF44,Brindisi,INTENHOM,intentional homicides,2017-01-01,4
+ITF45,Lecce,MASSMURD,mass murder,2017-01-01,0
+ITF5,Basilicata,MASSMURD,mass murder,2017-01-01,0
+ITF51,Potenza,MASSMURD,mass murder,2017-01-01,0
+ITF52,Matera,MASSMURD,mass murder,2017-01-01,0
+ITF6,Calabria,MASSMURD,mass murder,2017-01-01,1
+ITF61,Cosenza,MASSMURD,mass murder,2017-01-01,0
+ITF62,Crotone,MASSMURD,mass murder,2017-01-01,0
+ITF63,Catanzaro,MASSMURD,mass murder,2017-01-01,1
+ITF64,Vibo Valentia,MASSMURD,mass murder,2017-01-01,0
+ITF65,Reggio di Calabria,MASSMURD,mass murder,2017-01-01,0
+ITG,Isole,MASSMURD,mass murder,2017-01-01,9
+ITG1,Sicilia,MASSMURD,mass murder,2017-01-01,7
+ITG11,Trapani,MASSMURD,mass murder,2017-01-01,0
+ITG12,Palermo,MAFIAHOM,homicides of mafia,2017-01-01,2
+ITG13,Messina,UNINTHOM,unintentional homicides,2017-01-01,17
+ITG14,Agrigento,HOUSEROB,house robbery,2017-01-01,14
+ITG15,Caltanissetta,MASSMURD,mass murder,2017-01-01,0
+ITG16,Enna,MASSMURD,mass murder,2017-01-01,1
+ITG17,Catania,MASSMURD,mass murder,2017-01-01,1
+ITG18,Ragusa,UNINTHOM,unintentional homicides,2017-01-01,7
+ITG19,Siracusa,MASSMURD,mass murder,2017-01-01,1
+ITG2,Sardegna,PORNO,child pornography and possession of paedo-pornographic materials,2017-01-01,20
+ITG25,Sassari,MASSMURD,mass murder,2017-01-01,2
+ITG26,Nuoro,MASSMURD,mass murder,2017-01-01,0
+ITG27,Cagliari,MASSMURD,mass murder,2017-01-01,0
+ITG28,Oristano,MASSMURD,mass murder,2017-01-01,0
+IT108,Monza e della Brianza,MASSMURD,mass murder,2017-01-01,0
+IT109,Fermo,MASSMURD,mass murder,2017-01-01,0
+IT110,Barletta-Andria-Trani,MASSMURD,mass murder,2017-01-01,0
