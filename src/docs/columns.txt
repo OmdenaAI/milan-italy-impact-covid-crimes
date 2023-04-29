@@ -1,0 +1,17 @@
+Territory - code, name
+Region - code, name
+Province - code, name
+Municipalities - code, name, geometry
+Crimes - count, type, sub-type
+Gender - gender, id
+Age - ages from, ages to
+Year - 2015, ... 2022
+Cause of death
+health index, education index, income index
+Unemployment rate
+
+Month - 
+Lockdown - dates...
+
+
+homicide - ?

@@ -1,0 +1,120 @@
+
+# map.ipynb
+
+input
++ reg_url = '../../../data/geo_data/regions.geojson'
++ prov_url = '../../../data/geo_data/provinces.geojson'
++ munic_url = '../../../data/geo_data/municipalities.geojson'
++ crime_url = '../../../data/crime_type_by_year_cleaned.csv'
+
+changes
+- create longtitude and latitude for region and province
+- created a map
+
+output
+* terr.to_csv('../../../data/geo_data/territory.csv', index=False)
+* provs.to_csv('../../../data/geo_data/provs.csv', index=False)
+* regions.to_csv('../../../data/geo_data/regions.csv', index=False)
+
+# unemploymen
+
+# unemployment_byprovince2011-2022.ipynb
+
+input 
++ Data\Crime Rate data\unemployment_by_prov_2011-22.csv'
+
+dataset columns
+Territory_acr, Territory, Data_type, sex_id, gender, age_range, year, quarter, value
+
+changes
+- 
+
+output
+* unemployment_byprovince.to_csv('unemployment_byprovince.2011_2022.csv',index=False)
+
+
+# unemployment_quarterly.ipynb
+input
+unemployment_qr = pd.read_csv('../../data/unemployment_quartely_2004-22.csv')
+same us the previous
+
+# WHO_COVID_19_global-data.ipynb 
+
+input
+covid_data = pd.read_csv('../../data/WHO-COVID-19-global-data.csv')
+
+
+output
+covid_data.to_csv('../../data/WHO-COVID-19-global-data-cleaned.csv', index=False)
+
+
+#
+additional_crimems_monthly_2019-21
+
+
+unemployment by region
+
+
+data intentional homicide cleaned
+(country, indicator, dimension, category, sex, age_ranges, year, unit of measurements, total crimes)
+
+
+ECDC
+(date, cases, deaths, countries, country code)
+
+crime type by year cleaned (territory code, territory name, reatip_vices, crime_type, year, nnumber of  crime)
+
+data_intentional_homicide_cleaned.csv (coutnry, indicator, dimension, category, sex,  age, year, unit of measure,total crimes)
+
+
+task2
+additional crimes montly 2019-21 - on different drive
+regions cleaned
+provinces cleaned
+municipalities
+unemployment by region
+unemployment rate by province - not yet on drive
+unemployment quarterly - not on drive
+who - not yet on drive
+ecdc
+data intentional homicide cleaned
+crimes areas year 2012-21
+crime type by  year cleaned
+
+### NOT CLEANED ##################################################
+TASK 1 POPULATION
+/population
+population sex year (2019-2023, count of males/females/total, in teritory)
+popu
+population_all_data_2011-19.csv (territory code, name, tipo_dato15, data_type, sex_id, gender, CITTADINANZA, citizanship, time, value
+number of prisones held in institutions for adults (teri code, name, tipo_dato35, data_type, GUIST_reato, type of crime, sex id, gender, iso_b, citizenship, time, value
+
+PRE DATASET/
+commited_crime_year_region_capital 17-21 (year, region, capital, type, subtype_italian, type_english, subtype_engnlish, n_commited_crime
+https://docs.google.com/spreadsheets/d/189YJpTV7PCfUjqeWQpNocvo19OQBKnec/edit#gid=310105821
+
+reported_crimes_english/
+proceedings and crimes after the  public prosecutor ... 13-17.csv (cannot open)
+data_cts_intentional_homicide
+crimes by locaction year (cannot open)(country,grp,region,province,... years)2017-2021
+crimes areas year 2012-21.cscv (country, state, region, province, years...)
+crime rate provinces 2-12 - 21 (territory/.../..., year, count)
+calls to 1522 (to difficult to understand)
+additional crimes montly 2019-21 (teri code, teriname, tipo_dato35, data type, reati_ps, type of  crime, t_bis(month), monnth, year)
+additional crimes montly 2019-21 (month, teritory, type of crime, year)(teri code, teri name, datatype, reati_ps, t_bis(month abr), month,  year, value)
+-https://docs.google.com/spreadsheets/d/173n8P0Us2y9fRoxjv-VC91aSt-cZq9QM/edit#gid=1562051410
+
+covid lockdown in italy (code,  province, region, lockdown start, lockdown end, ...)
+italy region province codes (group of regions, groups, region, province, images)
+
+
+economic statistics/
+statistic unemployment rate in  italy 18-24.xlsx (month year, percecntage)
+unemployment quarterly 2004-22
+whats the difference with  unemployment quarterly/by region/ by prov
+
+Health/
+cause of  death location 2017-20.csv (teritory, tipo_dadto15, datatype, sex id, gender, causemorte_sl, underlying cause of death, year, value)
+
+italy sbi regionaldata.csv (contry, continent, iso_code, level, gdlcode,region, subnational hdi, health index, educational index, incomde index)
+https://drive.google.com/drive/folders/1B_-U2l0E_pOu5D_fHP1kIq4pWdeXRz9I
