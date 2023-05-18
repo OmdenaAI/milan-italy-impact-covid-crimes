@@ -150,3 +150,8 @@ dataflow.csv
 dataflow.xlsx
 justice.json
 src/tasks/task-2-data-cleaning/geodata/map_example.ipynb
+src/data/Covid/covid-provinces.csv
+src/data/Covid/covid-regions.csv
+src/tasks/task-2-data-cleaning/geodata/CUDA-version.png
+src/tasks/task-2-data-cleaning/geodata/cuda.ipynb
+src/tasks/task-2-data-cleaning/geodata/nvidia-smi.png

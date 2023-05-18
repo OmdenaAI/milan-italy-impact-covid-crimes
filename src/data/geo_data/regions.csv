@@ -1,21 +1,21 @@
-region
-Piemonte
-Valle d'Aosta/Vallée d'Aoste
-Lombardia
-Trentino-Alto Adige/Südtirol
-Veneto
-Friuli-Venezia Giulia
-Liguria
-Emilia-Romagna
-Toscana
-Umbria
-Marche
-Lazio
-Abruzzo
-Molise
-Campania
-Puglia
-Basilicata
-Calabria
-Sicilia
-Sardegna
+reg_name,reg_istat_code
+Piemonte,01
+Valle d'Aosta/Vallée d'Aoste,02
+Lombardia,03
+Trentino-Alto Adige/Südtirol,04
+Veneto,05
+Friuli-Venezia Giulia,06
+Liguria,07
+Emilia-Romagna,08
+Toscana,09
+Umbria,10
+Marche,11
+Lazio,12
+Abruzzo,13
+Molise,14
+Campania,15
+Puglia,16
+Basilicata,17
+Calabria,18
+Sicilia,19
+Sardegna,20
