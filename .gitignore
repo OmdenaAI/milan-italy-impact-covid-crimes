@@ -155,3 +155,5 @@ src/data/Covid/covid-regions.csv
 src/tasks/task-2-data-cleaning/geodata/CUDA-version.png
 src/tasks/task-2-data-cleaning/geodata/cuda.ipynb
 src/tasks/task-2-data-cleaning/geodata/nvidia-smi.png
+src/data/Unemployment_by_Region_clean.csv
+src/data/population_all_data_2019-23.csv
