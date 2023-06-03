@@ -1,0 +1,1333 @@
+Territory,Gender,Age,Scholarity,Year,Rate_unemployed
+Italy,all_gender,Y15-64,all_levels_education,2011,8.631399
+Italy,all_gender,Y15-64,all_levels_education,2012,11.017389
+Italy,all_gender,Y15-64,all_levels_education,2013,12.53561
+Italy,all_gender,Y15-64,all_levels_education,2014,13.035566
+Italy,all_gender,Y15-64,all_levels_education,2015,12.173498
+Italy,all_gender,Y15-64,all_levels_education,2016,11.915011
+Italy,all_gender,Y15-64,all_levels_education,2017,11.439305
+Italy,all_gender,Y15-64,all_levels_education,2018,10.769732
+Italy,all_gender,Y15-64,all_levels_education,2019,10.113914
+Italy,all_gender,Y15-64,all_levels_education,2020,9.530288
+Italy,all_gender,Y15-64,all_levels_education,2021,9.704693
+Nord-ovest,all_gender,Y15-64,all_levels_education,2011,6.488042
+Nord-ovest,all_gender,Y15-64,all_levels_education,2012,8.241845
+Nord-ovest,all_gender,Y15-64,all_levels_education,2013,9.168357
+Nord-ovest,all_gender,Y15-64,all_levels_education,2014,9.530764
+Nord-ovest,all_gender,Y15-64,all_levels_education,2015,8.842477
+Nord-ovest,all_gender,Y15-64,all_levels_education,2016,8.283608
+Nord-ovest,all_gender,Y15-64,all_levels_education,2017,7.543003
+Nord-ovest,all_gender,Y15-64,all_levels_education,2018,7.073587
+Nord-ovest,all_gender,Y15-64,all_levels_education,2019,6.611319
+Nord-ovest,all_gender,Y15-64,all_levels_education,2020,6.240284
+Nord-ovest,all_gender,Y15-64,all_levels_education,2021,6.602339
+Piemonte,all_gender,Y15-64,all_levels_education,2018,8.362247
+Piemonte,all_gender,Y15-64,all_levels_education,2019,7.786975
+Piemonte,all_gender,Y15-64,all_levels_education,2020,7.80823
+Piemonte,all_gender,Y15-64,all_levels_education,2021,7.473577
+Valle d'Aosta / Vallée d'Aoste,all_gender,Y15-64,all_levels_education,2018,7.19553
+Valle d'Aosta / Vallée d'Aoste,all_gender,Y15-64,all_levels_education,2019,6.58275
+Valle d'Aosta / Vallée d'Aoste,all_gender,Y15-64,all_levels_education,2020,5.857042
+Valle d'Aosta / Vallée d'Aoste,all_gender,Y15-64,all_levels_education,2021,7.284268
+Liguria,all_gender,Y15-64,all_levels_education,2018,9.970669
+Liguria,all_gender,Y15-64,all_levels_education,2019,9.788009
+Liguria,all_gender,Y15-64,all_levels_education,2020,8.590866
+Liguria,all_gender,Y15-64,all_levels_education,2021,8.536494
+Lombardia,all_gender,Y15-64,all_levels_education,2018,6.119677
+Lombardia,all_gender,Y15-64,all_levels_education,2019,5.681621
+Lombardia,all_gender,Y15-64,all_levels_education,2020,5.269479
+Lombardia,all_gender,Y15-64,all_levels_education,2021,5.963816
+Nord-est,all_gender,Y15-64,all_levels_education,2011,5.127632
+Nord-est,all_gender,Y15-64,all_levels_education,2012,6.781947
+Nord-est,all_gender,Y15-64,all_levels_education,2013,7.977735
+Nord-est,all_gender,Y15-64,all_levels_education,2014,7.919558
+Nord-est,all_gender,Y15-64,all_levels_education,2015,7.42532
+Nord-est,all_gender,Y15-64,all_levels_education,2016,6.883473
+Nord-est,all_gender,Y15-64,all_levels_education,2017,6.36422
+Nord-est,all_gender,Y15-64,all_levels_education,2018,6.087847
+Nord-est,all_gender,Y15-64,all_levels_education,2019,5.568737
+Nord-est,all_gender,Y15-64,all_levels_education,2020,5.864141
+Nord-est,all_gender,Y15-64,all_levels_education,2021,5.38705
+Trentino Alto Adige / Südtirol,all_gender,Y15-64,all_levels_education,2018,3.869485
+Trentino Alto Adige / Südtirol,all_gender,Y15-64,all_levels_education,2019,3.98016
+Trentino Alto Adige / Südtirol,all_gender,Y15-64,all_levels_education,2020,4.61686
+Trentino Alto Adige / Südtirol,all_gender,Y15-64,all_levels_education,2021,4.340155
+Provincia Autonoma Bolzano / Bozen,all_gender,Y15-64,all_levels_education,2018,2.931092
+Provincia Autonoma Bolzano / Bozen,all_gender,Y15-64,all_levels_education,2019,2.923022
+Provincia Autonoma Bolzano / Bozen,all_gender,Y15-64,all_levels_education,2020,3.756204
+Provincia Autonoma Bolzano / Bozen,all_gender,Y15-64,all_levels_education,2021,3.869641
+Provincia Autonoma Trento,all_gender,Y15-64,all_levels_education,2018,4.84736
+Provincia Autonoma Trento,all_gender,Y15-64,all_levels_education,2019,5.088166
+Provincia Autonoma Trento,all_gender,Y15-64,all_levels_education,2020,5.525146
+Provincia Autonoma Trento,all_gender,Y15-64,all_levels_education,2021,4.826729
+Veneto,all_gender,Y15-64,all_levels_education,2018,6.562705
+Veneto,all_gender,Y15-64,all_levels_education,2019,5.725511
+Veneto,all_gender,Y15-64,all_levels_education,2020,6.028586
+Veneto,all_gender,Y15-64,all_levels_education,2021,5.360404
+Friuli-Venezia Giulia,all_gender,Y15-64,all_levels_education,2018,6.79289
+Friuli-Venezia Giulia,all_gender,Y15-64,all_levels_education,2019,6.189584
+Friuli-Venezia Giulia,all_gender,Y15-64,all_levels_education,2020,5.76109
+Friuli-Venezia Giulia,all_gender,Y15-64,all_levels_education,2021,5.803563
+Emilia-Romagna,all_gender,Y15-64,all_levels_education,2018,5.938451
+Emilia-Romagna,all_gender,Y15-64,all_levels_education,2019,5.631747
+Emilia-Romagna,all_gender,Y15-64,all_levels_education,2020,6.022444
+Emilia-Romagna,all_gender,Y15-64,all_levels_education,2021,5.56329
+Centro,all_gender,Y15-64,all_levels_education,2011,7.802868
+Centro,all_gender,Y15-64,all_levels_education,2012,9.790475
+Centro,all_gender,Y15-64,all_levels_education,2013,11.068319
+Centro,all_gender,Y15-64,all_levels_education,2014,11.716045
+Centro,all_gender,Y15-64,all_levels_education,2015,10.926521
+Centro,all_gender,Y15-64,all_levels_education,2016,10.667869
+Centro,all_gender,Y15-64,all_levels_education,2017,10.199528
+Centro,all_gender,Y15-64,all_levels_education,2018,9.585627
+Centro,all_gender,Y15-64,all_levels_education,2019,8.80051
+Centro,all_gender,Y15-64,all_levels_education,2020,8.401002
+Centro,all_gender,Y15-64,all_levels_education,2021,8.799464
+Toscana,all_gender,Y15-64,all_levels_education,2018,7.468199
+Toscana,all_gender,Y15-64,all_levels_education,2019,6.860579
+Toscana,all_gender,Y15-64,all_levels_education,2020,6.949747
+Toscana,all_gender,Y15-64,all_levels_education,2021,7.738147
+Sardegna,all_gender,Y15-64,all_levels_education,2018,15.734642
+Sardegna,all_gender,Y15-64,all_levels_education,2019,15.247278
+Sardegna,all_gender,Y15-64,all_levels_education,2020,13.465583
+Sardegna,all_gender,Y15-64,all_levels_education,2021,13.782414
+Marche,all_gender,Y15-74,upper and post secondary,2018,8.300747
+Marche,all_gender,Y15-74,upper and post secondary,2019,8.89142
+Marche,all_gender,Y15-74,upper and post secondary,2020,7.472957
+Marche,all_gender,Y15-74,upper and post secondary,2021,7.608352
+Valle d'Aosta / Vallée d'Aoste,all_gender,Y15-74,all_levels_education,2018,7.074693
+Valle d'Aosta / Vallée d'Aoste,all_gender,Y15-74,all_levels_education,2019,6.485476
+Valle d'Aosta / Vallée d'Aoste,all_gender,Y15-74,all_levels_education,2020,5.852896
+Valle d'Aosta / Vallée d'Aoste,all_gender,Y15-74,all_levels_education,2021,7.259829
+Lazio,all_gender,Y15-64,all_levels_education,2018,11.304894
+Lazio,all_gender,Y15-64,all_levels_education,2019,10.084605
+Lazio,all_gender,Y15-64,all_levels_education,2020,9.534031
+Lazio,all_gender,Y15-64,all_levels_education,2021,10.20351
+Friuli-Venezia Giulia,all_gender,Y15-74,all_levels_education,2018,6.671789
+Friuli-Venezia Giulia,all_gender,Y15-74,all_levels_education,2019,6.081104
+Friuli-Venezia Giulia,all_gender,Y15-74,all_levels_education,2020,5.66186
+Friuli-Venezia Giulia,all_gender,Y15-74,all_levels_education,2021,5.712142
+Centro,all_gender,Y15-74,upper and post secondary,2018,10.034188
+Centro,all_gender,Y15-74,upper and post secondary,2019,9.254607
+Centro,all_gender,Y15-74,upper and post secondary,2020,8.375954
+Centro,all_gender,Y15-74,upper and post secondary,2021,9.104588
+Basilicata,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2018,10.457844
+Basilicata,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2019,10.900451
+Basilicata,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2020,8.072056
+Basilicata,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2021,6.398869
+Sicilia,all_gender,Y15-74,upper and post secondary,2018,19.780737
+Sicilia,all_gender,Y15-74,upper and post secondary,2019,18.305778
+Sicilia,all_gender,Y15-74,upper and post secondary,2020,17.407541
+Sicilia,all_gender,Y15-74,upper and post secondary,2021,17.635634
+Nord-ovest,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2018,3.800486
+Nord-ovest,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2019,3.45922
+Nord-ovest,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2020,3.506607
+Nord-ovest,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2021,3.622445
+Campania,all_gender,Y15-74,upper and post secondary,2018,18.939349
+Campania,all_gender,Y15-74,upper and post secondary,2019,17.93507
+Campania,all_gender,Y15-74,upper and post secondary,2020,16.524611
+Campania,all_gender,Y15-74,upper and post secondary,2021,17.968907
+Provincia Autonoma Trento,all_gender,Y15-74,upper and post secondary,2018,4.905323
+Provincia Autonoma Trento,all_gender,Y15-74,upper and post secondary,2019,4.944134
+Provincia Autonoma Trento,all_gender,Y15-74,upper and post secondary,2020,5.485759
+Provincia Autonoma Trento,all_gender,Y15-74,upper and post secondary,2021,4.99161
+Molise,all_gender,Y15-64,all_levels_education,2018,12.962589
+Molise,all_gender,Y15-64,all_levels_education,2019,12.397053
+Molise,all_gender,Y15-64,all_levels_education,2020,10.27796
+Molise,all_gender,Y15-64,all_levels_education,2021,11.189439
+Provincia Autonoma Trento,all_gender,Y15-74,all_levels_education,2018,4.784712
+Provincia Autonoma Trento,all_gender,Y15-74,all_levels_education,2019,5.023265
+Provincia Autonoma Trento,all_gender,Y15-74,all_levels_education,2020,5.446849
+Provincia Autonoma Trento,all_gender,Y15-74,all_levels_education,2021,4.80729
+Piemonte,all_gender,Y15-74,all_levels_education,2018,8.223384
+Piemonte,all_gender,Y15-74,all_levels_education,2019,7.631928
+Piemonte,all_gender,Y15-74,all_levels_education,2020,7.636
+Piemonte,all_gender,Y15-74,all_levels_education,2021,7.338475
+Sicilia,all_gender,Y15-74,all_levels_education,2018,21.282888
+Sicilia,all_gender,Y15-74,all_levels_education,2019,19.969011
+Sicilia,all_gender,Y15-74,all_levels_education,2020,18.25585
+Sicilia,all_gender,Y15-74,all_levels_education,2021,18.730475
+Piemonte,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2018,4.153528
+Piemonte,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2019,4.250076
+Piemonte,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2020,4.278085
+Piemonte,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2021,3.761474
+Abruzzo,all_gender,Y15-74,upper and post secondary,2018,10.801735
+Abruzzo,all_gender,Y15-74,upper and post secondary,2019,11.933079
+Abruzzo,all_gender,Y15-74,upper and post secondary,2020,8.945197
+Abruzzo,all_gender,Y15-74,upper and post secondary,2021,9.904993
+Nord-est,all_gender,Y15-74,all_levels_education,2011,5.065372
+Nord-est,all_gender,Y15-74,all_levels_education,2012,6.698005
+Nord-est,all_gender,Y15-74,all_levels_education,2013,7.866167
+Nord-est,all_gender,Y15-74,all_levels_education,2014,7.796819
+Nord-est,all_gender,Y15-74,all_levels_education,2015,7.321669
+Nord-est,all_gender,Y15-74,all_levels_education,2016,6.785217
+Nord-est,all_gender,Y15-74,all_levels_education,2017,6.257402
+Nord-est,all_gender,Y15-74,all_levels_education,2018,5.983419
+Nord-est,all_gender,Y15-74,all_levels_education,2019,5.479173
+Nord-est,all_gender,Y15-74,all_levels_education,2020,5.756915
+Nord-est,all_gender,Y15-74,all_levels_education,2021,5.309238
+Lazio,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2018,5.671716
+Lazio,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2019,6.155248
+Lazio,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2020,5.231033
+Lazio,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2021,4.949853
+Basilicata,all_gender,Y15-64,all_levels_education,2018,12.717975
+Basilicata,all_gender,Y15-64,all_levels_education,2019,11.056702
+Basilicata,all_gender,Y15-64,all_levels_education,2020,9.048914
+Basilicata,all_gender,Y15-64,all_levels_education,2021,8.440469
+Toscana,all_gender,Y15-74,upper and post secondary,2018,6.933604
+Toscana,all_gender,Y15-74,upper and post secondary,2019,7.232702
+Toscana,all_gender,Y15-74,upper and post secondary,2020,6.79651
+Toscana,all_gender,Y15-74,upper and post secondary,2021,7.363484
+Trentino Alto Adige / Südtirol,all_gender,Y15-74,upper and post secondary,2018,3.806486
+Trentino Alto Adige / Südtirol,all_gender,Y15-74,upper and post secondary,2019,3.680145
+Trentino Alto Adige / Südtirol,all_gender,Y15-74,upper and post secondary,2020,4.472426
+Trentino Alto Adige / Südtirol,all_gender,Y15-74,upper and post secondary,2021,4.247134
+Emilia-Romagna,all_gender,Y15-74,all_levels_education,2018,5.82935
+Emilia-Romagna,all_gender,Y15-74,all_levels_education,2019,5.5513
+Emilia-Romagna,all_gender,Y15-74,all_levels_education,2020,5.898232
+Emilia-Romagna,all_gender,Y15-74,all_levels_education,2021,5.471633
+Puglia,all_gender,Y15-64,all_levels_education,2018,16.264824
+Puglia,all_gender,Y15-64,all_levels_education,2019,15.113146
+Puglia,all_gender,Y15-64,all_levels_education,2020,14.469388
+Puglia,all_gender,Y15-64,all_levels_education,2021,14.788561
+Puglia,all_gender,Y15-74,all_levels_education,2018,16.090037
+Puglia,all_gender,Y15-74,all_levels_education,2019,14.875517
+Puglia,all_gender,Y15-74,all_levels_education,2020,14.249165
+Puglia,all_gender,Y15-74,all_levels_education,2021,14.569349
+Friuli-Venezia Giulia,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2018,4.171735
+Friuli-Venezia Giulia,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2019,4.27549
+Friuli-Venezia Giulia,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2020,3.722006
+Friuli-Venezia Giulia,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2021,4.060219
+Liguria,all_gender,Y15-74,upper and post secondary,2018,9.314174
+Liguria,all_gender,Y15-74,upper and post secondary,2019,8.54979
+Liguria,all_gender,Y15-74,upper and post secondary,2020,7.697089
+Liguria,all_gender,Y15-74,upper and post secondary,2021,7.869716
+Sardegna,all_gender,Y15-74,all_levels_education,2018,15.450284
+Sardegna,all_gender,Y15-74,all_levels_education,2019,14.897431
+Sardegna,all_gender,Y15-74,all_levels_education,2020,13.20698
+Sardegna,all_gender,Y15-74,all_levels_education,2021,13.515017
+Sardegna,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2018,10.135713
+Sardegna,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2019,10.224896
+Sardegna,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2020,6.21898
+Sardegna,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2021,6.538602
+Puglia,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2018,9.652293
+Puglia,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2019,8.151651
+Puglia,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2020,7.705668
+Puglia,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2021,7.859078
+Veneto,all_gender,Y15-74,all_levels_education,2018,6.453982
+Veneto,all_gender,Y15-74,all_levels_education,2019,5.623544
+Veneto,all_gender,Y15-74,all_levels_education,2020,5.923485
+Veneto,all_gender,Y15-74,all_levels_education,2021,5.28657
+Valle d'Aosta / Vallée d'Aoste,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2018,3.556911
+Valle d'Aosta / Vallée d'Aoste,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2019,2.772194
+Valle d'Aosta / Vallée d'Aoste,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2020,2.852643
+Valle d'Aosta / Vallée d'Aoste,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2021,3.662311
+Umbria,all_gender,Y15-74,all_levels_education,2018,9.261724
+Umbria,all_gender,Y15-74,all_levels_education,2019,8.481653
+Umbria,all_gender,Y15-74,all_levels_education,2020,8.301712
+Umbria,all_gender,Y15-74,all_levels_education,2021,6.632695
+Lombardia,all_gender,Y15-74,all_levels_education,2018,6.035634
+Lombardia,all_gender,Y15-74,all_levels_education,2019,5.624642
+Lombardia,all_gender,Y15-74,all_levels_education,2020,5.182763
+Lombardia,all_gender,Y15-74,all_levels_education,2021,5.882038
+Emilia-Romagna,all_gender,Y15-74,upper and post secondary,2018,5.279555
+Emilia-Romagna,all_gender,Y15-74,upper and post secondary,2019,5.181461
+Emilia-Romagna,all_gender,Y15-74,upper and post secondary,2020,5.9824
+Emilia-Romagna,all_gender,Y15-74,upper and post secondary,2021,5.394574
+Lazio,all_gender,Y15-74,all_levels_education,2018,11.109864
+Lazio,all_gender,Y15-74,all_levels_education,2019,9.904089
+Lazio,all_gender,Y15-74,all_levels_education,2020,9.348204
+Lazio,all_gender,Y15-74,all_levels_education,2021,10.024335
+Nord-est,all_gender,Y15-74,upper and post secondary,2018,5.688573
+Nord-est,all_gender,Y15-74,upper and post secondary,2019,4.964602
+Nord-est,all_gender,Y15-74,upper and post secondary,2020,5.738412
+Nord-est,all_gender,Y15-74,upper and post secondary,2021,5.170214
+Provincia Autonoma Bolzano / Bozen,all_gender,Y15-74,all_levels_education,2018,2.896442
+Provincia Autonoma Bolzano / Bozen,all_gender,Y15-74,all_levels_education,2019,2.881371
+Provincia Autonoma Bolzano / Bozen,all_gender,Y15-74,all_levels_education,2020,3.717622
+Provincia Autonoma Bolzano / Bozen,all_gender,Y15-74,all_levels_education,2021,3.836589
+Nord-est,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2018,3.565802
+Nord-est,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2019,3.681737
+Nord-est,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2020,3.797384
+Nord-est,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2021,3.18992
+Puglia,all_gender,Y15-74,upper and post secondary,2018,15.662464
+Puglia,all_gender,Y15-74,upper and post secondary,2019,15.190595
+Puglia,all_gender,Y15-74,upper and post secondary,2020,13.354956
+Puglia,all_gender,Y15-74,upper and post secondary,2021,14.581373
+Veneto,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2018,4.094854
+Veneto,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2019,3.703954
+Veneto,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2020,4.46082
+Veneto,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2021,3.065423
+Valle d'Aosta / Vallée d'Aoste,all_gender,Y15-74,upper and post secondary,2018,6.127089
+Valle d'Aosta / Vallée d'Aoste,all_gender,Y15-74,upper and post secondary,2019,6.037622
+Valle d'Aosta / Vallée d'Aoste,all_gender,Y15-74,upper and post secondary,2020,4.993634
+Valle d'Aosta / Vallée d'Aoste,all_gender,Y15-74,upper and post secondary,2021,6.440879
+Italy,all_gender,Y15-74,all_levels_education,2011,8.532414
+Italy,all_gender,Y15-74,all_levels_education,2012,10.888036
+Italy,all_gender,Y15-74,all_levels_education,2013,12.374133
+Italy,all_gender,Y15-74,all_levels_education,2014,12.850389
+Italy,all_gender,Y15-74,all_levels_education,2015,12.005183
+Italy,all_gender,Y15-74,all_levels_education,2016,11.747946
+Italy,all_gender,Y15-74,all_levels_education,2017,11.25108
+Italy,all_gender,Y15-74,all_levels_education,2018,10.584862
+Italy,all_gender,Y15-74,all_levels_education,2019,9.934087
+Italy,all_gender,Y15-74,all_levels_education,2020,9.348279
+Italy,all_gender,Y15-74,all_levels_education,2021,9.532253
+Molise,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2018,8.745512
+Molise,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2019,6.492173
+Molise,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2020,8.291026
+Molise,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2021,6.625984
+Calabria,all_gender,Y15-64,all_levels_education,2018,21.909066
+Calabria,all_gender,Y15-64,all_levels_education,2019,21.449507
+Calabria,all_gender,Y15-64,all_levels_education,2020,20.445912
+Calabria,all_gender,Y15-64,all_levels_education,2021,18.40225
+Calabria,all_gender,Y15-74,all_levels_education,2018,21.566477
+Calabria,all_gender,Y15-74,all_levels_education,2019,20.9696
+Calabria,all_gender,Y15-74,all_levels_education,2020,20.02119
+Calabria,all_gender,Y15-74,all_levels_education,2021,17.965485
+Piemonte,all_gender,Y15-74,upper and post secondary,2018,7.867427
+Piemonte,all_gender,Y15-74,upper and post secondary,2019,6.828284
+Piemonte,all_gender,Y15-74,upper and post secondary,2020,7.296577
+Piemonte,all_gender,Y15-74,upper and post secondary,2021,6.928893
+Centro,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2018,5.284642
+Centro,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2019,5.422864
+Centro,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2020,5.133935
+Centro,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2021,4.822111
+Umbria,all_gender,Y15-74,upper and post secondary,2018,9.150659
+Umbria,all_gender,Y15-74,upper and post secondary,2019,7.320547
+Umbria,all_gender,Y15-74,upper and post secondary,2020,7.413441
+Umbria,all_gender,Y15-74,upper and post secondary,2021,6.855558
+Veneto,all_gender,Y15-74,upper and post secondary,2018,6.224134
+Veneto,all_gender,Y15-74,upper and post secondary,2019,4.862104
+Veneto,all_gender,Y15-74,upper and post secondary,2020,5.899801
+Veneto,all_gender,Y15-74,upper and post secondary,2021,5.055076
+Campania,all_gender,Y15-64,all_levels_education,2018,20.811458
+Campania,all_gender,Y15-64,all_levels_education,2019,20.49097
+Campania,all_gender,Y15-64,all_levels_education,2020,18.758119
+Campania,all_gender,Y15-64,all_levels_education,2021,19.666569
+Campania,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2018,10.053135
+Campania,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2019,10.900781
+Campania,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2020,10.134663
+Campania,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2021,8.717309
+Friuli-Venezia Giulia,all_gender,Y15-74,upper and post secondary,2018,6.800949
+Friuli-Venezia Giulia,all_gender,Y15-74,upper and post secondary,2019,5.811086
+Friuli-Venezia Giulia,all_gender,Y15-74,upper and post secondary,2020,5.416964
+Friuli-Venezia Giulia,all_gender,Y15-74,upper and post secondary,2021,5.687245
+Liguria,all_gender,Y15-74,all_levels_education,2018,9.792994
+Liguria,all_gender,Y15-74,all_levels_education,2019,9.567805
+Liguria,all_gender,Y15-74,all_levels_education,2020,8.461646
+Liguria,all_gender,Y15-74,all_levels_education,2021,8.366807
+Umbria,all_gender,Y15-64,all_levels_education,2018,9.449208
+Umbria,all_gender,Y15-64,all_levels_education,2019,8.629482
+Umbria,all_gender,Y15-64,all_levels_education,2020,8.504801
+Umbria,all_gender,Y15-64,all_levels_education,2021,6.785093
+Basilicata,all_gender,Y15-74,all_levels_education,2018,12.460244
+Basilicata,all_gender,Y15-74,all_levels_education,2019,10.835782
+Basilicata,all_gender,Y15-74,all_levels_education,2020,8.813941
+Basilicata,all_gender,Y15-74,all_levels_education,2021,8.258717
+Lombardia,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2018,3.541618
+Lombardia,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2019,2.976202
+Lombardia,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2020,3.135771
+Lombardia,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2021,3.459753
+Marche,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2018,5.74688
+Marche,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2019,6.334056
+Marche,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2020,6.417532
+Marche,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2021,3.991802
+Calabria,all_gender,Y15-74,upper and post secondary,2018,20.05848
+Calabria,all_gender,Y15-74,upper and post secondary,2019,20.8661
+Calabria,all_gender,Y15-74,upper and post secondary,2020,18.991121
+Calabria,all_gender,Y15-74,upper and post secondary,2021,18.610924
+Liguria,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2018,4.671116
+Liguria,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2019,4.791109
+Liguria,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2020,4.138457
+Liguria,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2021,4.383338
+Basilicata,all_gender,Y15-74,upper and post secondary,2018,13.026039
+Basilicata,all_gender,Y15-74,upper and post secondary,2019,10.67768
+Basilicata,all_gender,Y15-74,upper and post secondary,2020,8.656539
+Basilicata,all_gender,Y15-74,upper and post secondary,2021,8.021536
+Italy,all_gender,Y15-74,upper and post secondary,2018,10.064872
+Italy,all_gender,Y15-74,upper and post secondary,2019,9.389234
+Italy,all_gender,Y15-74,upper and post secondary,2020,8.822461
+Italy,all_gender,Y15-74,upper and post secondary,2021,9.204573
+Calabria,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2018,17.176128
+Calabria,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2019,13.163132
+Calabria,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2020,12.956939
+Calabria,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2021,11.545373
+Emilia-Romagna,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2018,3.168494
+Emilia-Romagna,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2019,3.818719
+Emilia-Romagna,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2020,3.443575
+Emilia-Romagna,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2021,3.257073
+Umbria,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2018,5.194262
+Umbria,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2019,6.030334
+Umbria,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2020,5.900876
+Umbria,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2021,5.727728
+Trentino Alto Adige / Südtirol,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2018,2.383773
+Trentino Alto Adige / Südtirol,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2019,2.186047
+Trentino Alto Adige / Südtirol,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2020,2.63397
+Trentino Alto Adige / Südtirol,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2021,2.398111
+Nord-ovest,all_gender,Y15-74,all_levels_education,2011,6.415358
+Nord-ovest,all_gender,Y15-74,all_levels_education,2012,8.150077
+Nord-ovest,all_gender,Y15-74,all_levels_education,2013,9.053169
+Nord-ovest,all_gender,Y15-74,all_levels_education,2014,9.400826
+Nord-ovest,all_gender,Y15-74,all_levels_education,2015,8.725549
+Nord-ovest,all_gender,Y15-74,all_levels_education,2016,8.173318
+Nord-ovest,all_gender,Y15-74,all_levels_education,2017,7.430493
+Nord-ovest,all_gender,Y15-74,all_levels_education,2018,6.969327
+Nord-ovest,all_gender,Y15-74,all_levels_education,2019,6.518027
+Nord-ovest,all_gender,Y15-74,all_levels_education,2020,6.130091
+Nord-ovest,all_gender,Y15-74,all_levels_education,2021,6.499994
+Provincia Autonoma Bolzano / Bozen,all_gender,Y15-74,upper and post secondary,2018,2.680382
+Provincia Autonoma Bolzano / Bozen,all_gender,Y15-74,upper and post secondary,2019,2.412964
+Provincia Autonoma Bolzano / Bozen,all_gender,Y15-74,upper and post secondary,2020,3.484873
+Provincia Autonoma Bolzano / Bozen,all_gender,Y15-74,upper and post secondary,2021,3.511071
+Toscana,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2018,4.383963
+Toscana,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2019,3.464474
+Toscana,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2020,4.198449
+Toscana,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2021,4.692326
+Sicilia,all_gender,Y15-64,all_levels_education,2018,21.632683
+Sicilia,all_gender,Y15-64,all_levels_education,2019,20.323721
+Sicilia,all_gender,Y15-64,all_levels_education,2020,18.598796
+Sicilia,all_gender,Y15-64,all_levels_education,2021,19.046629
+Centro,all_gender,Y15-74,all_levels_education,2011,7.704995
+Centro,all_gender,Y15-74,all_levels_education,2012,9.668525
+Centro,all_gender,Y15-74,all_levels_education,2013,10.915209
+Centro,all_gender,Y15-74,all_levels_education,2014,11.526623
+Centro,all_gender,Y15-74,all_levels_education,2015,10.755856
+Centro,all_gender,Y15-74,all_levels_education,2016,10.50589
+Centro,all_gender,Y15-74,all_levels_education,2017,10.03287
+Centro,all_gender,Y15-74,all_levels_education,2018,9.404227
+Centro,all_gender,Y15-74,all_levels_education,2019,8.637531
+Centro,all_gender,Y15-74,all_levels_education,2020,8.227381
+Centro,all_gender,Y15-74,all_levels_education,2021,8.618182
+Sicilia,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2018,12.218325
+Sicilia,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2019,10.54939
+Sicilia,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2020,9.278168
+Sicilia,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2021,8.827729
+Italy,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2018,5.901777
+Italy,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2019,5.688709
+Italy,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2020,5.401672
+Italy,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2021,5.06617
+Abruzzo,all_gender,Y15-74,all_levels_education,2018,10.810043
+Abruzzo,all_gender,Y15-74,all_levels_education,2019,11.147062
+Abruzzo,all_gender,Y15-74,all_levels_education,2020,9.65653
+Abruzzo,all_gender,Y15-74,all_levels_education,2021,9.34415
+Abruzzo,all_gender,Y15-64,all_levels_education,2018,11.014066
+Abruzzo,all_gender,Y15-64,all_levels_education,2019,11.355918
+Abruzzo,all_gender,Y15-64,all_levels_education,2020,9.863106
+Abruzzo,all_gender,Y15-64,all_levels_education,2021,9.568934
+Lombardia,all_gender,Y15-74,upper and post secondary,2018,6.021671
+Lombardia,all_gender,Y15-74,upper and post secondary,2019,5.405215
+Lombardia,all_gender,Y15-74,upper and post secondary,2020,5.158235
+Lombardia,all_gender,Y15-74,upper and post secondary,2021,5.912274
+Marche,all_gender,Y15-74,all_levels_education,2018,8.127425
+Marche,all_gender,Y15-74,all_levels_education,2019,8.626353
+Marche,all_gender,Y15-74,all_levels_education,2020,7.52411
+Marche,all_gender,Y15-74,all_levels_education,2021,7.123891
+Provincia Autonoma Trento,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2018,2.363929
+Provincia Autonoma Trento,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2019,2.261768
+Provincia Autonoma Trento,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2020,3.298072
+Provincia Autonoma Trento,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2021,2.171779
+Lazio,all_gender,Y15-74,upper and post secondary,2018,12.674145
+Lazio,all_gender,Y15-74,upper and post secondary,2019,11.020477
+Lazio,all_gender,Y15-74,upper and post secondary,2020,9.835082
+Lazio,all_gender,Y15-74,upper and post secondary,2021,11.046945
+Marche,all_gender,Y15-64,all_levels_education,2018,8.306052
+Marche,all_gender,Y15-64,all_levels_education,2019,8.805933
+Marche,all_gender,Y15-64,all_levels_education,2020,7.676359
+Marche,all_gender,Y15-64,all_levels_education,2021,7.283222
+Sardegna,all_gender,Y15-74,upper and post secondary,2018,14.134215
+Sardegna,all_gender,Y15-74,upper and post secondary,2019,16.020369
+Sardegna,all_gender,Y15-74,upper and post secondary,2020,13.251419
+Sardegna,all_gender,Y15-74,upper and post secondary,2021,14.466644
+Molise,all_gender,Y15-74,upper and post secondary,2018,13.706417
+Molise,all_gender,Y15-74,upper and post secondary,2019,13.702163
+Molise,all_gender,Y15-74,upper and post secondary,2020,9.376581
+Molise,all_gender,Y15-74,upper and post secondary,2021,10.541565
+Molise,all_gender,Y15-74,all_levels_education,2018,12.773464
+Molise,all_gender,Y15-74,all_levels_education,2019,12.054123
+Molise,all_gender,Y15-74,all_levels_education,2020,9.946962
+Molise,all_gender,Y15-74,all_levels_education,2021,10.943558
+Abruzzo,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2018,8.461481
+Abruzzo,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2019,8.991942
+Abruzzo,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2020,8.913912
+Abruzzo,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2021,8.004295
+Trentino Alto Adige / Südtirol,all_gender,Y15-74,all_levels_education,2018,3.817948
+Trentino Alto Adige / Südtirol,all_gender,Y15-74,all_levels_education,2019,3.924362
+Trentino Alto Adige / Südtirol,all_gender,Y15-74,all_levels_education,2020,4.557694
+Trentino Alto Adige / Südtirol,all_gender,Y15-74,all_levels_education,2021,4.312656
+Provincia Autonoma Bolzano / Bozen,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2018,2.409664
+Provincia Autonoma Bolzano / Bozen,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2019,2.090195
+Provincia Autonoma Bolzano / Bozen,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2020,1.789018
+Provincia Autonoma Bolzano / Bozen,all_gender,Y15-74,"tertiary (university, doctoral and specialization courses)",2021,2.682964
+Toscana,all_gender,Y15-74,all_levels_education,2018,7.32442
+Toscana,all_gender,Y15-74,all_levels_education,2019,6.739099
+Toscana,all_gender,Y15-74,all_levels_education,2020,6.803387
+Toscana,all_gender,Y15-74,all_levels_education,2021,7.543828
+Campania,all_gender,Y15-74,all_levels_education,2018,20.391955
+Campania,all_gender,Y15-74,all_levels_education,2019,20.082753
+Campania,all_gender,Y15-74,all_levels_education,2020,18.399187
+Campania,all_gender,Y15-74,all_levels_education,2021,19.348949
+Nord-ovest,all_gender,Y15-74,upper and post secondary,2018,6.817411
+Nord-ovest,all_gender,Y15-74,upper and post secondary,2019,6.083402
+Nord-ovest,all_gender,Y15-74,upper and post secondary,2020,5.964438
+Nord-ovest,all_gender,Y15-74,upper and post secondary,2021,6.371402
+Basilicata,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2018,10.844461
+Basilicata,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2019,11.243811
+Basilicata,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2020,8.221319
+Basilicata,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2021,6.480681
+Piemonte,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2018,11.015425
+Piemonte,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2019,11.103744
+Piemonte,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2020,10.453896
+Piemonte,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2021,10.531575
+Toscana,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2018,4.50764
+Toscana,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2019,3.493666
+Toscana,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2020,4.308878
+Toscana,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2021,4.819713
+Marche,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2018,5.897242
+Marche,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2019,6.514233
+Marche,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2020,6.626157
+Marche,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2021,4.108779
+Lazio,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2018,5.821081
+Lazio,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2019,6.327657
+Lazio,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2020,5.354129
+Lazio,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2021,5.074737
+Calabria,all_gender,Y15-64,upper and post secondary,2018,20.245851
+Calabria,all_gender,Y15-64,upper and post secondary,2019,21.204117
+Calabria,all_gender,Y15-64,upper and post secondary,2020,19.261002
+Calabria,all_gender,Y15-64,upper and post secondary,2021,18.913757
+Trentino Alto Adige / Südtirol,all_gender,Y20-64,upper and post secondary,2018,3.54164
+Trentino Alto Adige / Südtirol,all_gender,Y20-64,upper and post secondary,2019,3.47838
+Trentino Alto Adige / Südtirol,all_gender,Y20-64,upper and post secondary,2020,4.191772
+Trentino Alto Adige / Südtirol,all_gender,Y20-64,upper and post secondary,2021,4.110352
+Nord-ovest,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2018,9.319524
+Nord-ovest,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2019,9.290597
+Nord-ovest,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2020,8.314088
+Nord-ovest,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2021,8.827674
+Basilicata,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2018,12.389722
+Basilicata,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2019,11.082162
+Basilicata,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2020,9.720591
+Basilicata,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2021,10.014523
+Sardegna,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2018,18.956097
+Sardegna,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2019,16.23038
+Sardegna,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2020,17.138197
+Sardegna,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2021,16.180059
+Sardegna,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2018,19.173376
+Sardegna,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2019,16.517628
+Sardegna,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2020,17.414024
+Sardegna,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2021,16.350474
+Piemonte,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2018,11.339225
+Piemonte,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2019,11.007002
+Piemonte,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2020,10.397495
+Piemonte,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2021,10.478025
+Toscana,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2018,10.325126
+Toscana,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2019,8.650258
+Toscana,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2020,8.938593
+Toscana,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2021,10.303213
+Provincia Autonoma Trento,all_gender,Y20-64,all_levels_education,2018,4.587137
+Provincia Autonoma Trento,all_gender,Y20-64,all_levels_education,2019,4.898365
+Provincia Autonoma Trento,all_gender,Y20-64,all_levels_education,2020,5.338107
+Provincia Autonoma Trento,all_gender,Y20-64,all_levels_education,2021,4.720473
+Marche,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2018,9.867809
+Marche,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2019,10.31808
+Marche,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2020,8.74227
+Marche,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2021,9.256861
+Sicilia,all_gender,Y15-64,upper and post secondary,2018,19.982407
+Sicilia,all_gender,Y15-64,upper and post secondary,2019,18.556196
+Sicilia,all_gender,Y15-64,upper and post secondary,2020,17.625101
+Sicilia,all_gender,Y15-64,upper and post secondary,2021,17.795692
+Lombardia,all_gender,Y15-64,upper and post secondary,2018,6.067456
+Lombardia,all_gender,Y15-64,upper and post secondary,2019,5.423063
+Lombardia,all_gender,Y15-64,upper and post secondary,2020,5.193692
+Lombardia,all_gender,Y15-64,upper and post secondary,2021,5.99561
+Molise,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2018,9.050923
+Molise,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2019,6.726934
+Molise,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2020,8.605943
+Molise,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2021,6.816244
+Centro,all_gender,Y20-64,upper and post secondary,2018,9.799686
+Centro,all_gender,Y20-64,upper and post secondary,2019,9.122807
+Centro,all_gender,Y20-64,upper and post secondary,2020,8.338671
+Centro,all_gender,Y20-64,upper and post secondary,2021,8.933116
+Liguria,all_gender,Y20-64,all_levels_education,2018,9.754628
+Liguria,all_gender,Y20-64,all_levels_education,2019,9.530021
+Liguria,all_gender,Y20-64,all_levels_education,2020,8.421172
+Liguria,all_gender,Y20-64,all_levels_education,2021,8.270262
+Basilicata,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2018,12.696483
+Basilicata,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2019,11.058334
+Basilicata,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2020,9.585049
+Basilicata,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2021,9.860035
+Lazio,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2018,14.375305
+Lazio,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2019,12.250757
+Lazio,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2020,13.472699
+Lazio,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2021,14.299508
+Liguria,all_gender,Y15-64,upper and post secondary,2018,9.467037
+Liguria,all_gender,Y15-64,upper and post secondary,2019,8.699769
+Liguria,all_gender,Y15-64,upper and post secondary,2020,7.807609
+Liguria,all_gender,Y15-64,upper and post secondary,2021,8.022734
+Sardegna,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2018,10.373854
+Sardegna,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2019,10.524294
+Sardegna,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2020,6.386484
+Sardegna,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2021,6.736372
+Lazio,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2018,14.241101
+Lazio,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2019,12.221582
+Lazio,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2020,13.470804
+Lazio,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2021,14.018613
+Abruzzo,all_gender,Y20-64,upper and post secondary,2018,10.664004
+Abruzzo,all_gender,Y20-64,upper and post secondary,2019,11.76898
+Abruzzo,all_gender,Y20-64,upper and post secondary,2020,8.732525
+Abruzzo,all_gender,Y20-64,upper and post secondary,2021,9.597422
+Sicilia,all_gender,Y20-64,all_levels_education,2018,21.16601
+Sicilia,all_gender,Y20-64,all_levels_education,2019,19.802328
+Sicilia,all_gender,Y20-64,all_levels_education,2020,18.218845
+Sicilia,all_gender,Y20-64,all_levels_education,2021,18.486589
+Nord-ovest,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2018,3.87178
+Nord-ovest,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2019,3.535045
+Nord-ovest,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2020,3.616051
+Nord-ovest,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2021,3.693145
+Provincia Autonoma Bolzano / Bozen,all_gender,Y15-64,upper and post secondary,2018,2.723054
+Provincia Autonoma Bolzano / Bozen,all_gender,Y15-64,upper and post secondary,2019,2.434576
+Provincia Autonoma Bolzano / Bozen,all_gender,Y15-64,upper and post secondary,2020,3.487866
+Provincia Autonoma Bolzano / Bozen,all_gender,Y15-64,upper and post secondary,2021,3.550058
+Veneto,all_gender,Y20-64,upper and post secondary,2018,6.080363
+Veneto,all_gender,Y20-64,upper and post secondary,2019,4.509242
+Veneto,all_gender,Y20-64,upper and post secondary,2020,5.568394
+Veneto,all_gender,Y20-64,upper and post secondary,2021,4.815394
+Friuli-Venezia Giulia,all_gender,Y20-64,upper and post secondary,2018,6.713958
+Friuli-Venezia Giulia,all_gender,Y20-64,upper and post secondary,2019,5.680484
+Friuli-Venezia Giulia,all_gender,Y20-64,upper and post secondary,2020,5.430525
+Friuli-Venezia Giulia,all_gender,Y20-64,upper and post secondary,2021,5.5706
+Molise,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2018,14.088494
+Molise,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2019,13.895308
+Molise,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2020,12.344998
+Molise,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2021,14.997087
+Calabria,all_gender,Y20-64,all_levels_education,2018,21.456614
+Calabria,all_gender,Y20-64,all_levels_education,2019,20.877823
+Calabria,all_gender,Y20-64,all_levels_education,2020,20.129976
+Calabria,all_gender,Y20-64,all_levels_education,2021,18.0159
+Abruzzo,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2018,8.76951
+Abruzzo,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2019,9.299244
+Abruzzo,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2020,9.179654
+Abruzzo,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2021,8.264582
+Nord-est,all_gender,Y20-64,upper and post secondary,2018,5.541042
+Nord-est,all_gender,Y20-64,upper and post secondary,2019,4.723845
+Nord-est,all_gender,Y20-64,upper and post secondary,2020,5.51768
+Nord-est,all_gender,Y20-64,upper and post secondary,2021,4.968999
+Puglia,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2018,19.500858
+Puglia,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2019,17.861943
+Puglia,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2020,18.412424
+Puglia,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2021,17.97817
+Centro,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2018,12.392556
+Centro,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2019,10.879548
+Centro,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2020,11.248714
+Centro,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2021,11.830856
+Provincia Autonoma Bolzano / Bozen,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2018,3.484437
+Provincia Autonoma Bolzano / Bozen,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2019,3.976928
+Provincia Autonoma Bolzano / Bozen,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2020,5.125778
+Provincia Autonoma Bolzano / Bozen,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2021,5.039317
+Emilia-Romagna,all_gender,Y20-64,upper and post secondary,2018,5.140122
+Emilia-Romagna,all_gender,Y20-64,upper and post secondary,2019,5.022356
+Emilia-Romagna,all_gender,Y20-64,upper and post secondary,2020,5.829973
+Emilia-Romagna,all_gender,Y20-64,upper and post secondary,2021,5.192749
+Nord-est,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2018,3.651884
+Nord-est,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2019,3.775096
+Nord-est,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2020,3.884601
+Nord-est,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2021,3.234916
+Campania,all_gender,Y15-64,upper and post secondary,2018,19.219748
+Campania,all_gender,Y15-64,upper and post secondary,2019,18.202875
+Campania,all_gender,Y15-64,upper and post secondary,2020,16.82383
+Campania,all_gender,Y15-64,upper and post secondary,2021,18.222867
+Valle d'Aosta / Vallée d'Aoste,all_gender,Y15-64,upper and post secondary,2018,6.212779
+Valle d'Aosta / Vallée d'Aoste,all_gender,Y15-64,upper and post secondary,2019,6.073479
+Valle d'Aosta / Vallée d'Aoste,all_gender,Y15-64,upper and post secondary,2020,5.026959
+Valle d'Aosta / Vallée d'Aoste,all_gender,Y15-64,upper and post secondary,2021,6.53145
+Puglia,all_gender,Y15-64,upper and post secondary,2018,15.838205
+Puglia,all_gender,Y15-64,upper and post secondary,2019,15.351935
+Puglia,all_gender,Y15-64,upper and post secondary,2020,13.449785
+Puglia,all_gender,Y15-64,upper and post secondary,2021,14.746118
+Friuli-Venezia Giulia,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2018,4.303306
+Friuli-Venezia Giulia,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2019,4.37491
+Friuli-Venezia Giulia,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2020,3.801794
+Friuli-Venezia Giulia,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2021,4.148136
+Campania,all_gender,Y20-64,all_levels_education,2018,20.131391
+Campania,all_gender,Y20-64,all_levels_education,2019,19.892032
+Campania,all_gender,Y20-64,all_levels_education,2020,18.25645
+Campania,all_gender,Y20-64,all_levels_education,2021,19.041826
+Veneto,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2018,4.187242
+Veneto,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2019,3.784561
+Veneto,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2020,4.547057
+Veneto,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2021,3.139168
+Umbria,all_gender,Y20-64,upper and post secondary,2018,9.069672
+Umbria,all_gender,Y20-64,upper and post secondary,2019,7.346578
+Umbria,all_gender,Y20-64,upper and post secondary,2020,7.413961
+Umbria,all_gender,Y20-64,upper and post secondary,2021,6.729075
+Puglia,all_gender,Y20-64,all_levels_education,2018,15.814978
+Puglia,all_gender,Y20-64,all_levels_education,2019,14.63736
+Puglia,all_gender,Y20-64,all_levels_education,2020,13.99621
+Puglia,all_gender,Y20-64,all_levels_education,2021,14.38698
+Abruzzo,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2018,12.96673
+Abruzzo,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2019,11.835246
+Abruzzo,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2020,11.840707
+Abruzzo,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2021,9.892978
+Provincia Autonoma Bolzano / Bozen,all_gender,Y20-64,all_levels_education,2018,2.711213
+Provincia Autonoma Bolzano / Bozen,all_gender,Y20-64,all_levels_education,2019,2.741736
+Provincia Autonoma Bolzano / Bozen,all_gender,Y20-64,all_levels_education,2020,3.536221
+Provincia Autonoma Bolzano / Bozen,all_gender,Y20-64,all_levels_education,2021,3.75727
+Trentino Alto Adige / Südtirol,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2018,2.406697
+Trentino Alto Adige / Südtirol,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2019,2.245916
+Trentino Alto Adige / Südtirol,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2020,2.659036
+Trentino Alto Adige / Südtirol,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2021,2.447337
+Italy,all_gender,Y15-64,upper and post secondary,2018,10.186777
+Italy,all_gender,Y15-64,upper and post secondary,2019,9.504865
+Italy,all_gender,Y15-64,upper and post secondary,2020,8.942135
+Italy,all_gender,Y15-64,upper and post secondary,2021,9.32063
+Lombardia,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2018,7.985207
+Lombardia,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2019,7.960996
+Lombardia,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2020,6.852755
+Lombardia,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2021,7.722614
+Italy,all_gender,Y20-64,all_levels_education,2011,8.255882
+Italy,all_gender,Y20-64,all_levels_education,2012,10.565862
+Italy,all_gender,Y20-64,all_levels_education,2013,12.108173
+Italy,all_gender,Y20-64,all_levels_education,2014,12.597938
+Italy,all_gender,Y20-64,all_levels_education,2015,11.79415
+Italy,all_gender,Y20-64,all_levels_education,2016,11.561349
+Italy,all_gender,Y20-64,all_levels_education,2017,11.106266
+Italy,all_gender,Y20-64,all_levels_education,2018,10.444246
+Italy,all_gender,Y20-64,all_levels_education,2019,9.806329
+Italy,all_gender,Y20-64,all_levels_education,2020,9.254824
+Italy,all_gender,Y20-64,all_levels_education,2021,9.402401
+Valle d'Aosta / Vallée d'Aoste,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2018,10.306975
+Valle d'Aosta / Vallée d'Aoste,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2019,9.262453
+Valle d'Aosta / Vallée d'Aoste,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2020,8.676724
+Valle d'Aosta / Vallée d'Aoste,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2021,10.419404
+Centro,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2018,5.432351
+Centro,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2019,5.55971
+Centro,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2020,5.268835
+Centro,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2021,4.951288
+Lombardia,all_gender,Y20-64,all_levels_education,2018,5.869904
+Lombardia,all_gender,Y20-64,all_levels_education,2019,5.434445
+Lombardia,all_gender,Y20-64,all_levels_education,2020,5.053361
+Lombardia,all_gender,Y20-64,all_levels_education,2021,5.759567
+Calabria,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2018,25.534463
+Calabria,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2019,25.397381
+Calabria,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2020,25.405217
+Calabria,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2021,20.998304
+Trentino Alto Adige / Südtirol,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2018,4.949785
+Trentino Alto Adige / Südtirol,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2019,5.635178
+Trentino Alto Adige / Südtirol,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2020,6.286173
+Trentino Alto Adige / Südtirol,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2021,5.903436
+Italy,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2018,14.542729
+Italy,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2019,13.760171
+Italy,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2020,13.063074
+Italy,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2021,13.355779
+Lazio,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2018,14.66674
+Lazio,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2019,12.455649
+Lazio,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2020,13.765858
+Lazio,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2021,14.610907
+Trentino Alto Adige / Südtirol,all_gender,Y15-64,upper and post secondary,2018,3.847831
+Trentino Alto Adige / Südtirol,all_gender,Y15-64,upper and post secondary,2019,3.71128
+Trentino Alto Adige / Südtirol,all_gender,Y15-64,upper and post secondary,2020,4.492548
+Trentino Alto Adige / Südtirol,all_gender,Y15-64,upper and post secondary,2021,4.281402
+Trentino Alto Adige / Südtirol,all_gender,Y20-64,all_levels_education,2018,3.634227
+Trentino Alto Adige / Südtirol,all_gender,Y20-64,all_levels_education,2019,3.802541
+Trentino Alto Adige / Südtirol,all_gender,Y20-64,all_levels_education,2020,4.418656
+Trentino Alto Adige / Südtirol,all_gender,Y20-64,all_levels_education,2021,4.2328
+Calabria,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2018,17.45259
+Calabria,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2019,13.67346
+Calabria,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2020,13.372357
+Calabria,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2021,11.854429
+Italy,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2018,6.052866
+Italy,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2019,5.845214
+Italy,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2020,5.556789
+Italy,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2021,5.183004
+Provincia Autonoma Bolzano / Bozen,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2018,3.335525
+Provincia Autonoma Bolzano / Bozen,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2019,3.906259
+Provincia Autonoma Bolzano / Bozen,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2020,5.072762
+Provincia Autonoma Bolzano / Bozen,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2021,5.053672
+Abruzzo,all_gender,Y20-64,all_levels_education,2018,10.856017
+Abruzzo,all_gender,Y20-64,all_levels_education,2019,11.191898
+Abruzzo,all_gender,Y20-64,all_levels_education,2020,9.678667
+Abruzzo,all_gender,Y20-64,all_levels_education,2021,9.277774
+Molise,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2018,14.401354
+Molise,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2019,14.073658
+Molise,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2020,12.46547
+Molise,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2021,15.371014
+Liguria,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2018,14.818702
+Liguria,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2019,15.584644
+Liguria,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2020,13.659269
+Liguria,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2021,12.63449
+Centro,all_gender,Y20-64,all_levels_education,2011,7.503407
+Centro,all_gender,Y20-64,all_levels_education,2012,9.409061
+Centro,all_gender,Y20-64,all_levels_education,2013,10.724542
+Centro,all_gender,Y20-64,all_levels_education,2014,11.386223
+Centro,all_gender,Y20-64,all_levels_education,2015,10.641109
+Centro,all_gender,Y20-64,all_levels_education,2016,10.41575
+Centro,all_gender,Y20-64,all_levels_education,2017,9.895962
+Centro,all_gender,Y20-64,all_levels_education,2018,9.318195
+Centro,all_gender,Y20-64,all_levels_education,2019,8.600575
+Centro,all_gender,Y20-64,all_levels_education,2020,8.208577
+Centro,all_gender,Y20-64,all_levels_education,2021,8.548192
+Nord-ovest,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2018,9.73006
+Nord-ovest,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2019,9.611671
+Nord-ovest,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2020,8.599114
+Nord-ovest,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2021,9.062296
+Liguria,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2018,4.823326
+Liguria,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2019,4.796906
+Liguria,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2020,4.316261
+Liguria,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2021,4.555527
+Puglia,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2018,9.883652
+Puglia,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2019,8.38041
+Puglia,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2020,7.984877
+Puglia,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2021,8.091793
+Sicilia,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2018,26.868872
+Sicilia,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2019,26.036518
+Sicilia,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2020,23.926878
+Sicilia,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2021,24.9837
+Molise,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2018,9.050923
+Molise,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2019,6.726934
+Molise,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2020,8.605943
+Molise,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2021,6.816244
+Nord-est,all_gender,Y15-64,upper and post secondary,2018,5.769481
+Nord-est,all_gender,Y15-64,upper and post secondary,2019,5.023135
+Nord-est,all_gender,Y15-64,upper and post secondary,2020,5.811961
+Nord-est,all_gender,Y15-64,upper and post secondary,2021,5.214171
+Lombardia,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2018,3.600911
+Lombardia,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2019,3.057817
+Lombardia,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2020,3.224151
+Lombardia,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2021,3.510605
+Calabria,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2018,25.482269
+Calabria,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2019,25.45247
+Calabria,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2020,25.769476
+Calabria,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2021,21.313517
+Veneto,all_gender,Y15-64,upper and post secondary,2018,6.321414
+Veneto,all_gender,Y15-64,upper and post secondary,2019,4.938889
+Veneto,all_gender,Y15-64,upper and post secondary,2020,5.974911
+Veneto,all_gender,Y15-64,upper and post secondary,2021,5.093836
+Provincia Autonoma Bolzano / Bozen,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2018,2.394747
+Provincia Autonoma Bolzano / Bozen,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2019,2.158632
+Provincia Autonoma Bolzano / Bozen,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2020,1.778292
+Provincia Autonoma Bolzano / Bozen,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2021,2.738575
+Friuli-Venezia Giulia,all_gender,Y15-64,upper and post secondary,2018,6.877026
+Friuli-Venezia Giulia,all_gender,Y15-64,upper and post secondary,2019,5.842713
+Friuli-Venezia Giulia,all_gender,Y15-64,upper and post secondary,2020,5.477278
+Friuli-Venezia Giulia,all_gender,Y15-64,upper and post secondary,2021,5.682043
+Molise,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2018,14.282384
+Molise,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2019,13.541613
+Molise,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2020,11.957932
+Molise,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2021,14.898776
+Valle d'Aosta / Vallée d'Aoste,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2018,3.625378
+Valle d'Aosta / Vallée d'Aoste,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2019,2.829544
+Valle d'Aosta / Vallée d'Aoste,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2020,2.89752
+Valle d'Aosta / Vallée d'Aoste,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2021,3.663132
+Campania,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2018,26.676109
+Campania,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2019,26.829026
+Campania,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2020,24.806207
+Campania,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2021,26.58918
+Puglia,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2018,19.056358
+Puglia,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2019,17.562439
+Puglia,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2020,18.162019
+Puglia,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2021,17.759468
+Provincia Autonoma Trento,all_gender,Y15-64,upper and post secondary,2018,4.94232
+Provincia Autonoma Trento,all_gender,Y15-64,upper and post secondary,2019,4.979992
+Provincia Autonoma Trento,all_gender,Y15-64,upper and post secondary,2020,5.520452
+Provincia Autonoma Trento,all_gender,Y15-64,upper and post secondary,2021,5.014354
+Nord-ovest,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2018,9.538177
+Nord-ovest,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2019,9.420444
+Nord-ovest,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2020,8.408379
+Nord-ovest,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2021,8.901732
+Italy,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2018,14.369755
+Italy,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2019,13.629639
+Italy,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2020,12.988626
+Italy,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2021,13.247329
+Campania,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2018,10.394396
+Campania,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2019,11.326488
+Campania,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2020,10.465686
+Campania,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2021,8.934256
+Umbria,all_gender,Y20-64,all_levels_education,2018,9.14888
+Umbria,all_gender,Y20-64,all_levels_education,2019,8.513771
+Umbria,all_gender,Y20-64,all_levels_education,2020,8.254849
+Umbria,all_gender,Y20-64,all_levels_education,2021,6.620946
+Emilia-Romagna,all_gender,Y20-64,all_levels_education,2018,5.731202
+Emilia-Romagna,all_gender,Y20-64,all_levels_education,2019,5.438831
+Emilia-Romagna,all_gender,Y20-64,all_levels_education,2020,5.818582
+Emilia-Romagna,all_gender,Y20-64,all_levels_education,2021,5.35856
+Emilia-Romagna,all_gender,Y15-64,upper and post secondary,2018,5.355058
+Emilia-Romagna,all_gender,Y15-64,upper and post secondary,2019,5.234275
+Emilia-Romagna,all_gender,Y15-64,upper and post secondary,2020,6.073231
+Emilia-Romagna,all_gender,Y15-64,upper and post secondary,2021,5.461788
+Lombardia,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2018,7.786039
+Lombardia,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2019,7.717811
+Lombardia,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2020,6.725003
+Lombardia,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2021,7.614278
+Piemonte,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2018,4.230921
+Piemonte,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2019,4.345464
+Piemonte,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2020,4.424874
+Piemonte,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2021,3.852139
+Umbria,all_gender,Y15-64,upper and post secondary,2018,9.274116
+Umbria,all_gender,Y15-64,upper and post secondary,2019,7.467686
+Umbria,all_gender,Y15-64,upper and post secondary,2020,7.564899
+Umbria,all_gender,Y15-64,upper and post secondary,2021,6.934301
+Marche,all_gender,Y20-64,upper and post secondary,2018,8.129918
+Marche,all_gender,Y20-64,upper and post secondary,2019,8.785311
+Marche,all_gender,Y20-64,upper and post secondary,2020,7.354898
+Marche,all_gender,Y20-64,upper and post secondary,2021,7.315069
+Friuli-Venezia Giulia,all_gender,Y20-64,all_levels_education,2018,6.622753
+Friuli-Venezia Giulia,all_gender,Y20-64,all_levels_education,2019,6.017514
+Friuli-Venezia Giulia,all_gender,Y20-64,all_levels_education,2020,5.607282
+Friuli-Venezia Giulia,all_gender,Y20-64,all_levels_education,2021,5.574752
+Nord-est,all_gender,Y20-64,all_levels_education,2011,4.852443
+Nord-est,all_gender,Y20-64,all_levels_education,2012,6.475721
+Nord-est,all_gender,Y20-64,all_levels_education,2013,7.676195
+Nord-est,all_gender,Y20-64,all_levels_education,2014,7.629984
+Nord-est,all_gender,Y20-64,all_levels_education,2015,7.235211
+Nord-est,all_gender,Y20-64,all_levels_education,2016,6.649077
+Nord-est,all_gender,Y20-64,all_levels_education,2017,6.160018
+Nord-est,all_gender,Y20-64,all_levels_education,2018,5.86902
+Nord-est,all_gender,Y20-64,all_levels_education,2019,5.32318
+Nord-est,all_gender,Y20-64,all_levels_education,2020,5.596985
+Nord-est,all_gender,Y20-64,all_levels_education,2021,5.151504
+Veneto,all_gender,Y20-64,all_levels_education,2018,6.321724
+Veneto,all_gender,Y20-64,all_levels_education,2019,5.3942
+Veneto,all_gender,Y20-64,all_levels_education,2020,5.655493
+Veneto,all_gender,Y20-64,all_levels_education,2021,5.062496
+Toscana,all_gender,Y20-64,upper and post secondary,2018,6.56038
+Toscana,all_gender,Y20-64,upper and post secondary,2019,7.002991
+Toscana,all_gender,Y20-64,upper and post secondary,2020,6.685263
+Toscana,all_gender,Y20-64,upper and post secondary,2021,7.218374
+Valle d'Aosta / Vallée d'Aoste,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2018,10.26589
+Valle d'Aosta / Vallée d'Aoste,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2019,9.008822
+Valle d'Aosta / Vallée d'Aoste,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2020,8.567371
+Valle d'Aosta / Vallée d'Aoste,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2021,10.251602
+Friuli-Venezia Giulia,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2018,8.506686
+Friuli-Venezia Giulia,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2019,8.158938
+Friuli-Venezia Giulia,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2020,7.964449
+Friuli-Venezia Giulia,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2021,7.257342
+Veneto,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2018,8.462603
+Veneto,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2019,8.291178
+Veneto,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2020,7.028945
+Veneto,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2021,7.320913
+Friuli-Venezia Giulia,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2018,8.397974
+Friuli-Venezia Giulia,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2019,8.120282
+Friuli-Venezia Giulia,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2020,7.728935
+Friuli-Venezia Giulia,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2021,6.920936
+Lombardia,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2018,3.600911
+Lombardia,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2019,3.057817
+Lombardia,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2020,3.224151
+Lombardia,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2021,3.510605
+Calabria,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2018,26.131737
+Calabria,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2019,26.051357
+Calabria,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2020,26.045721
+Calabria,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2021,21.6802
+Italy,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2018,6.054661
+Italy,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2019,5.845214
+Italy,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2020,5.556712
+Italy,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2021,5.183004
+Piemonte,all_gender,Y20-64,upper and post secondary,2018,7.520208
+Piemonte,all_gender,Y20-64,upper and post secondary,2019,6.579358
+Piemonte,all_gender,Y20-64,upper and post secondary,2020,7.060944
+Piemonte,all_gender,Y20-64,upper and post secondary,2021,6.76221
+Veneto,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2018,8.239041
+Veneto,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2019,8.112134
+Veneto,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2020,6.640587
+Veneto,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2021,6.934801
+Nord-est,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2018,8.145728
+Nord-est,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2019,7.639199
+Nord-est,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2020,7.179269
+Nord-est,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2021,7.092773
+Italy,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2018,14.85644
+Italy,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2019,14.065808
+Italy,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2020,13.378508
+Italy,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2021,13.680078
+Puglia,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2018,19.635206
+Puglia,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2019,18.161375
+Puglia,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2020,18.702062
+Puglia,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2021,18.247449
+Trentino Alto Adige / Südtirol,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2018,4.847189
+Trentino Alto Adige / Südtirol,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2019,5.526089
+Trentino Alto Adige / Südtirol,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2020,6.092961
+Trentino Alto Adige / Südtirol,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2021,5.862796
+Sardegna,all_gender,Y20-64,upper and post secondary,2018,14.075011
+Sardegna,all_gender,Y20-64,upper and post secondary,2019,15.820867
+Sardegna,all_gender,Y20-64,upper and post secondary,2020,13.05575
+Sardegna,all_gender,Y20-64,upper and post secondary,2021,14.357886
+Trentino Alto Adige / Südtirol,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2018,4.697436
+Trentino Alto Adige / Südtirol,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2019,5.475093
+Trentino Alto Adige / Südtirol,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2020,6.177255
+Trentino Alto Adige / Südtirol,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2021,5.879269
+Centro,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2018,12.094428
+Centro,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2019,10.63583
+Centro,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2020,10.960247
+Centro,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2021,11.479935
+Provincia Autonoma Bolzano / Bozen,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2018,2.394747
+Provincia Autonoma Bolzano / Bozen,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2019,2.158632
+Provincia Autonoma Bolzano / Bozen,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2020,1.778292
+Provincia Autonoma Bolzano / Bozen,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2021,2.738575
+Basilicata,all_gender,Y20-64,upper and post secondary,2018,13.01251
+Basilicata,all_gender,Y20-64,upper and post secondary,2019,10.646528
+Basilicata,all_gender,Y20-64,upper and post secondary,2020,8.747798
+Basilicata,all_gender,Y20-64,upper and post secondary,2021,7.972899
+Abruzzo,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2018,12.764013
+Abruzzo,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2019,11.672725
+Abruzzo,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2020,11.834629
+Abruzzo,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2021,9.611521
+Provincia Autonoma Bolzano / Bozen,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2018,3.547095
+Provincia Autonoma Bolzano / Bozen,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2019,4.047188
+Provincia Autonoma Bolzano / Bozen,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2020,5.275582
+Provincia Autonoma Bolzano / Bozen,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2021,5.076851
+Nord-est,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2018,3.651884
+Nord-est,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2019,3.775096
+Nord-est,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2020,3.884849
+Nord-est,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2021,3.234916
+Veneto,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2018,4.187242
+Veneto,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2019,3.784561
+Veneto,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2020,4.547057
+Veneto,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2021,3.139168
+Abruzzo,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2018,12.586025
+Abruzzo,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2019,11.479379
+Abruzzo,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2020,11.570288
+Abruzzo,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2021,9.527312
+Centro,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2018,12.073379
+Centro,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2019,10.619636
+Centro,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2020,10.867561
+Centro,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2021,11.428629
+Campania,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2018,27.724295
+Campania,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2019,27.681878
+Campania,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2020,25.538693
+Campania,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2021,27.408972
+Lombardia,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2018,8.146339
+Lombardia,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2019,8.060094
+Lombardia,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2020,7.011483
+Lombardia,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2021,7.831614
+Emilia-Romagna,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2018,3.25083
+Emilia-Romagna,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2019,3.930042
+Emilia-Romagna,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2020,3.54083
+Emilia-Romagna,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2021,3.263695
+Campania,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2018,10.394396
+Campania,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2019,11.326488
+Campania,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2020,10.465686
+Campania,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2021,8.934256
+Valle d'Aosta / Vallée d'Aoste,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2018,3.625378
+Valle d'Aosta / Vallée d'Aoste,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2019,2.829544
+Valle d'Aosta / Vallée d'Aoste,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2020,2.89752
+Valle d'Aosta / Vallée d'Aoste,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2021,3.663132
+Valle d'Aosta / Vallée d'Aoste,all_gender,Y20-64,upper and post secondary,2018,6.128521
+Valle d'Aosta / Vallée d'Aoste,all_gender,Y20-64,upper and post secondary,2019,5.978428
+Valle d'Aosta / Vallée d'Aoste,all_gender,Y20-64,upper and post secondary,2020,4.724152
+Valle d'Aosta / Vallée d'Aoste,all_gender,Y20-64,upper and post secondary,2021,6.438395
+Puglia,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2018,9.883652
+Puglia,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2019,8.38041
+Puglia,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2020,7.984877
+Puglia,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2021,8.091793
+Friuli-Venezia Giulia,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2018,4.303306
+Friuli-Venezia Giulia,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2019,4.37491
+Friuli-Venezia Giulia,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2020,3.80423
+Friuli-Venezia Giulia,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2021,4.148136
+Umbria,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2018,5.388666
+Umbria,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2019,6.216918
+Umbria,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2020,6.090085
+Umbria,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2021,5.919747
+Sardegna,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2018,10.373854
+Sardegna,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2019,10.524294
+Sardegna,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2020,6.386484
+Sardegna,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2021,6.736372
+Molise,all_gender,Y20-64,upper and post secondary,2018,13.517051
+Molise,all_gender,Y20-64,upper and post secondary,2019,13.640614
+Molise,all_gender,Y20-64,upper and post secondary,2020,9.212487
+Molise,all_gender,Y20-64,upper and post secondary,2021,10.204164
+Provincia Autonoma Trento,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2018,2.418473
+Provincia Autonoma Trento,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2019,2.314231
+Provincia Autonoma Trento,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2020,3.34678
+Provincia Autonoma Trento,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2021,2.215974
+Nord-ovest,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2018,3.878011
+Nord-ovest,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2019,3.535045
+Nord-ovest,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2020,3.616051
+Nord-ovest,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2021,3.693145
+Campania,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2018,27.121577
+Campania,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2019,27.184839
+Campania,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2020,25.085725
+Campania,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2021,26.937868
+Nord-ovest,all_gender,Y20-64,upper and post secondary,2018,6.555056
+Nord-ovest,all_gender,Y20-64,upper and post secondary,2019,5.826313
+Nord-ovest,all_gender,Y20-64,upper and post secondary,2020,5.746182
+Nord-ovest,all_gender,Y20-64,upper and post secondary,2021,6.177533
+Basilicata,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2018,10.844461
+Basilicata,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2019,11.243811
+Basilicata,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2020,8.221319
+Basilicata,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2021,6.480681
+Centro,all_gender,Y15-64,upper and post secondary,2018,10.162442
+Centro,all_gender,Y15-64,upper and post secondary,2019,9.384116
+Centro,all_gender,Y15-64,upper and post secondary,2020,8.515364
+Centro,all_gender,Y15-64,upper and post secondary,2021,9.22224
+Umbria,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2018,12.475857
+Umbria,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2019,13.398737
+Umbria,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2020,12.275893
+Umbria,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2021,7.09671
+Valle d'Aosta / Vallée d'Aoste,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2018,10.543929
+Valle d'Aosta / Vallée d'Aoste,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2019,9.505354
+Valle d'Aosta / Vallée d'Aoste,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2020,8.658212
+Valle d'Aosta / Vallée d'Aoste,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2021,10.385987
+Toscana,all_gender,Y15-64,upper and post secondary,2018,7.028112
+Toscana,all_gender,Y15-64,upper and post secondary,2019,7.327182
+Toscana,all_gender,Y15-64,upper and post secondary,2020,6.895811
+Toscana,all_gender,Y15-64,upper and post secondary,2021,7.480556
+Abruzzo,all_gender,Y15-64,upper and post secondary,2018,10.860682
+Abruzzo,all_gender,Y15-64,upper and post secondary,2019,12.001888
+Abruzzo,all_gender,Y15-64,upper and post secondary,2020,9.099645
+Abruzzo,all_gender,Y15-64,upper and post secondary,2021,10.031474
+Piemonte,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2018,4.256095
+Piemonte,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2019,4.345464
+Piemonte,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2020,4.424874
+Piemonte,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2021,3.852139
+Toscana,all_gender,Y20-64,all_levels_education,2018,7.183155
+Toscana,all_gender,Y20-64,all_levels_education,2019,6.602412
+Toscana,all_gender,Y20-64,all_levels_education,2020,6.738378
+Toscana,all_gender,Y20-64,all_levels_education,2021,7.538023
+Marche,all_gender,Y15-64,upper and post secondary,2018,8.399073
+Marche,all_gender,Y15-64,upper and post secondary,2019,8.954
+Marche,all_gender,Y15-64,upper and post secondary,2020,7.531476
+Marche,all_gender,Y15-64,upper and post secondary,2021,7.678034
+Provincia Autonoma Trento,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2018,6.544318
+Provincia Autonoma Trento,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2019,7.613618
+Provincia Autonoma Trento,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2020,7.671137
+Provincia Autonoma Trento,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2021,6.965574
+Lazio,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2018,5.821081
+Lazio,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2019,6.327657
+Lazio,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2020,5.354129
+Lazio,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2021,5.074737
+Toscana,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2018,10.07787
+Toscana,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2019,8.41707
+Toscana,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2020,8.676483
+Toscana,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2021,9.921963
+Marche,all_gender,Y20-64,all_levels_education,2018,8.16592
+Marche,all_gender,Y20-64,all_levels_education,2019,8.662078
+Marche,all_gender,Y20-64,all_levels_education,2020,7.416605
+Marche,all_gender,Y20-64,all_levels_education,2021,7.017063
+Lazio,all_gender,Y20-64,upper and post secondary,2018,12.480804
+Lazio,all_gender,Y20-64,upper and post secondary,2019,10.910331
+Lazio,all_gender,Y20-64,upper and post secondary,2020,9.85559
+Lazio,all_gender,Y20-64,upper and post secondary,2021,10.882976
+Sicilia,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2018,12.633546
+Sicilia,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2019,10.923491
+Sicilia,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2020,9.541029
+Sicilia,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2021,9.023381
+Piemonte,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2018,11.613128
+Piemonte,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2019,11.343505
+Piemonte,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2020,10.722816
+Piemonte,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2021,10.766616
+Marche,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2018,9.518367
+Marche,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2019,9.950025
+Marche,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2020,8.484261
+Marche,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2021,8.895887
+Emilia-Romagna,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2018,8.819945
+Emilia-Romagna,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2019,7.539597
+Emilia-Romagna,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2020,7.918262
+Emilia-Romagna,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2021,7.604484
+Sardegna,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2018,19.365319
+Sardegna,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2019,16.647968
+Sardegna,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2020,17.453607
+Sardegna,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2021,16.501224
+Basilicata,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2018,12.963358
+Basilicata,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2019,11.289824
+Basilicata,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2020,9.956895
+Basilicata,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2021,10.222692
+Liguria,all_gender,Y20-64,upper and post secondary,2018,9.157612
+Liguria,all_gender,Y20-64,upper and post secondary,2019,8.423601
+Liguria,all_gender,Y20-64,upper and post secondary,2020,7.663647
+Liguria,all_gender,Y20-64,upper and post secondary,2021,7.690346
+Lazio,all_gender,Y15-64,upper and post secondary,2018,12.828978
+Lazio,all_gender,Y15-64,upper and post secondary,2019,11.182647
+Lazio,all_gender,Y15-64,upper and post secondary,2020,10.014822
+Lazio,all_gender,Y15-64,upper and post secondary,2021,11.188285
+Liguria,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2018,14.806647
+Liguria,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2019,15.414609
+Liguria,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2020,13.87435
+Liguria,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2021,12.81392
+Piemonte,all_gender,Y15-64,upper and post secondary,2018,7.945168
+Piemonte,all_gender,Y15-64,upper and post secondary,2019,6.914603
+Piemonte,all_gender,Y15-64,upper and post secondary,2020,7.391645
+Piemonte,all_gender,Y15-64,upper and post secondary,2021,6.994706
+Basilicata,all_gender,Y20-64,all_levels_education,2018,12.429376
+Basilicata,all_gender,Y20-64,all_levels_education,2019,10.894127
+Basilicata,all_gender,Y20-64,all_levels_education,2020,8.924512
+Basilicata,all_gender,Y20-64,all_levels_education,2021,8.288204
+Emilia-Romagna,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2018,3.25083
+Emilia-Romagna,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2019,3.930042
+Emilia-Romagna,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2020,3.54083
+Emilia-Romagna,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2021,3.263695
+Valle d'Aosta / Vallée d'Aoste,all_gender,Y20-64,all_levels_education,2018,7.04959
+Valle d'Aosta / Vallée d'Aoste,all_gender,Y20-64,all_levels_education,2019,6.355396
+Valle d'Aosta / Vallée d'Aoste,all_gender,Y20-64,all_levels_education,2020,5.683853
+Valle d'Aosta / Vallée d'Aoste,all_gender,Y20-64,all_levels_education,2021,7.190039
+Umbria,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2018,5.388666
+Umbria,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2019,6.216918
+Umbria,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2020,6.090085
+Umbria,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2021,5.919747
+Sicilia,all_gender,Y20-64,upper and post secondary,2018,19.578418
+Sicilia,all_gender,Y20-64,upper and post secondary,2019,18.13046
+Sicilia,all_gender,Y20-64,upper and post secondary,2020,17.133769
+Sicilia,all_gender,Y20-64,upper and post secondary,2021,17.240035
+Piemonte,all_gender,Y20-64,all_levels_education,2018,7.956102
+Piemonte,all_gender,Y20-64,all_levels_education,2019,7.546435
+Piemonte,all_gender,Y20-64,all_levels_education,2020,7.559414
+Piemonte,all_gender,Y20-64,all_levels_education,2021,7.284515
+Emilia-Romagna,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2018,9.154316
+Emilia-Romagna,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2019,7.856796
+Emilia-Romagna,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2020,8.223709
+Emilia-Romagna,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2021,7.868896
+Sardegna,all_gender,Y15-64,upper and post secondary,2018,14.326801
+Sardegna,all_gender,Y15-64,upper and post secondary,2019,16.324468
+Sardegna,all_gender,Y15-64,upper and post secondary,2020,13.495624
+Sardegna,all_gender,Y15-64,upper and post secondary,2021,14.705446
+Provincia Autonoma Trento,all_gender,Y20-64,upper and post secondary,2018,4.622212
+Provincia Autonoma Trento,all_gender,Y20-64,upper and post secondary,2019,4.753754
+Provincia Autonoma Trento,all_gender,Y20-64,upper and post secondary,2020,5.185406
+Provincia Autonoma Trento,all_gender,Y20-64,upper and post secondary,2021,4.852317
+Nord-ovest,all_gender,Y15-64,upper and post secondary,2018,6.879215
+Nord-ovest,all_gender,Y15-64,upper and post secondary,2019,6.129507
+Nord-ovest,all_gender,Y15-64,upper and post secondary,2020,6.023119
+Nord-ovest,all_gender,Y15-64,upper and post secondary,2021,6.456264
+Nord-est,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2018,8.488293
+Nord-est,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2019,7.967697
+Nord-est,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2020,7.600433
+Nord-est,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2021,7.489372
+Provincia Autonoma Trento,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2018,6.762129
+Provincia Autonoma Trento,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2019,7.715981
+Provincia Autonoma Trento,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2020,7.440084
+Provincia Autonoma Trento,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2021,6.962956
+Sardegna,all_gender,Y20-64,all_levels_education,2018,15.544862
+Sardegna,all_gender,Y20-64,all_levels_education,2019,14.9857
+Sardegna,all_gender,Y20-64,all_levels_education,2020,13.264984
+Sardegna,all_gender,Y20-64,all_levels_education,2021,13.568685
+Veneto,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2018,8.626336
+Veneto,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2019,8.50113
+Veneto,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2020,7.222309
+Veneto,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2021,7.47433
+Friuli-Venezia Giulia,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2018,8.705982
+Friuli-Venezia Giulia,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2019,8.441312
+Friuli-Venezia Giulia,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2020,8.241828
+Friuli-Venezia Giulia,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2021,7.589847
+Provincia Autonoma Trento,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2018,2.418473
+Provincia Autonoma Trento,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2019,2.314231
+Provincia Autonoma Trento,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2020,3.34678
+Provincia Autonoma Trento,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2021,2.215974
+Basilicata,all_gender,Y15-64,upper and post secondary,2018,13.219673
+Basilicata,all_gender,Y15-64,upper and post secondary,2019,10.845974
+Basilicata,all_gender,Y15-64,upper and post secondary,2020,8.853758
+Basilicata,all_gender,Y15-64,upper and post secondary,2021,8.152224
+Sicilia,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2018,27.083996
+Sicilia,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2019,26.40712
+Sicilia,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2020,23.788982
+Sicilia,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2021,25.206074
+Umbria,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2018,13.172805
+Umbria,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2019,13.583805
+Umbria,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2020,12.947723
+Umbria,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2021,7.332894
+Centro,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2018,5.432351
+Centro,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2019,5.55971
+Centro,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2020,5.268835
+Centro,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2021,4.951288
+Lazio,all_gender,Y20-64,all_levels_education,2018,11.021204
+Lazio,all_gender,Y20-64,all_levels_education,2019,9.892916
+Lazio,all_gender,Y20-64,all_levels_education,2020,9.37962
+Lazio,all_gender,Y20-64,all_levels_education,2021,9.907608
+Campania,all_gender,Y20-64,upper and post secondary,2018,18.676461
+Campania,all_gender,Y20-64,upper and post secondary,2019,17.645497
+Campania,all_gender,Y20-64,upper and post secondary,2020,16.350406
+Campania,all_gender,Y20-64,upper and post secondary,2021,17.536395
+Puglia,all_gender,Y20-64,upper and post secondary,2018,15.335743
+Puglia,all_gender,Y20-64,upper and post secondary,2019,14.810538
+Puglia,all_gender,Y20-64,upper and post secondary,2020,12.846964
+Puglia,all_gender,Y20-64,upper and post secondary,2021,14.272517
+Nord-est,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2018,8.297875
+Nord-est,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2019,7.791854
+Nord-est,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2020,7.391988
+Nord-est,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2021,7.289554
+Molise,all_gender,Y15-64,upper and post secondary,2018,13.851906
+Molise,all_gender,Y15-64,upper and post secondary,2019,13.943398
+Molise,all_gender,Y15-64,upper and post secondary,2020,9.61014
+Molise,all_gender,Y15-64,upper and post secondary,2021,10.709417
+Provincia Autonoma Trento,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2018,6.888377
+Provincia Autonoma Trento,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2019,7.871225
+Provincia Autonoma Trento,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2020,7.701047
+Provincia Autonoma Trento,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2021,7.020204
+Umbria,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2018,12.880535
+Umbria,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2019,13.389671
+Umbria,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2020,12.596001
+Umbria,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2021,7.071038
+Lombardia,all_gender,Y20-64,upper and post secondary,2018,5.779549
+Lombardia,all_gender,Y20-64,upper and post secondary,2019,5.124626
+Lombardia,all_gender,Y20-64,upper and post secondary,2020,4.920495
+Lombardia,all_gender,Y20-64,upper and post secondary,2021,5.701936
+Toscana,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2018,4.50764
+Toscana,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2019,3.493666
+Toscana,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2020,4.308878
+Toscana,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2021,4.819713
+Marche,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2018,5.897242
+Marche,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2019,6.514233
+Marche,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2020,6.626157
+Marche,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2021,4.108779
+Liguria,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2018,4.823326
+Liguria,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2019,4.796906
+Liguria,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2020,4.316261
+Liguria,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2021,4.555527
+Provincia Autonoma Bolzano / Bozen,all_gender,Y20-64,upper and post secondary,2018,2.424954
+Provincia Autonoma Bolzano / Bozen,all_gender,Y20-64,upper and post secondary,2019,2.186692
+Provincia Autonoma Bolzano / Bozen,all_gender,Y20-64,upper and post secondary,2020,3.218207
+Provincia Autonoma Bolzano / Bozen,all_gender,Y20-64,upper and post secondary,2021,3.370514
+Abruzzo,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2018,8.76951
+Abruzzo,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2019,9.299244
+Abruzzo,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2020,9.179654
+Abruzzo,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2021,8.264582
+Sicilia,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2018,12.633546
+Sicilia,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2019,10.923491
+Sicilia,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2020,9.541029
+Sicilia,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2021,9.023381
+Sicilia,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2018,27.538955
+Sicilia,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2019,26.822394
+Sicilia,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2020,24.312618
+Sicilia,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2021,25.753459
+Nord-ovest,all_gender,Y20-64,all_levels_education,2011,6.153782
+Nord-ovest,all_gender,Y20-64,all_levels_education,2012,7.845922
+Nord-ovest,all_gender,Y20-64,all_levels_education,2013,8.777527
+Nord-ovest,all_gender,Y20-64,all_levels_education,2014,9.15293
+Nord-ovest,all_gender,Y20-64,all_levels_education,2015,8.535118
+Nord-ovest,all_gender,Y20-64,all_levels_education,2016,8.004101
+Nord-ovest,all_gender,Y20-64,all_levels_education,2017,7.30422
+Nord-ovest,all_gender,Y20-64,all_levels_education,2018,6.78648
+Nord-ovest,all_gender,Y20-64,all_levels_education,2019,6.365871
+Nord-ovest,all_gender,Y20-64,all_levels_education,2020,6.019624
+Nord-ovest,all_gender,Y20-64,all_levels_education,2021,6.397452
+Calabria,all_gender,Y20-64,upper and post secondary,2018,19.809981
+Calabria,all_gender,Y20-64,upper and post secondary,2019,20.445659
+Calabria,all_gender,Y20-64,upper and post secondary,2020,18.804907
+Calabria,all_gender,Y20-64,upper and post secondary,2021,18.353662
+Italy,all_gender,Y20-64,upper and post secondary,2018,9.848293
+Italy,all_gender,Y20-64,upper and post secondary,2019,9.159525
+Italy,all_gender,Y20-64,upper and post secondary,2020,8.628299
+Italy,all_gender,Y20-64,upper and post secondary,2021,8.97569
+Calabria,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2018,17.45259
+Calabria,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2019,13.67346
+Calabria,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2020,13.372357
+Calabria,all_gender,Y15-64,"tertiary (university, doctoral and specialization courses)",2021,11.854429
+Trentino Alto Adige / Südtirol,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2018,2.406697
+Trentino Alto Adige / Südtirol,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2019,2.245916
+Trentino Alto Adige / Südtirol,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2020,2.659036
+Trentino Alto Adige / Südtirol,all_gender,Y20-64,"tertiary (university, doctoral and specialization courses)",2021,2.447337
+Marche,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2018,9.838187
+Marche,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2019,10.116483
+Marche,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2020,8.152451
+Marche,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2021,8.957027
+Molise,all_gender,Y20-64,all_levels_education,2018,12.701572
+Molise,all_gender,Y20-64,all_levels_education,2019,12.192502
+Molise,all_gender,Y20-64,all_levels_education,2020,10.051186
+Molise,all_gender,Y20-64,all_levels_education,2021,10.84089
+Toscana,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2018,10.115985
+Toscana,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2019,8.321868
+Toscana,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2020,8.588067
+Toscana,all_gender,Y20-64,"no educational degree, primary and lower secondary school certificate",2021,10.062846
+Emilia-Romagna,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2018,8.91121
+Emilia-Romagna,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2019,7.725573
+Emilia-Romagna,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2020,8.010156
+Emilia-Romagna,all_gender,Y15-74,"no educational degree, primary and lower secondary school certificate",2021,7.60896
+Liguria,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2018,15.009256
+Liguria,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2019,15.991138
+Liguria,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2020,13.991433
+Liguria,all_gender,Y15-64,"no educational degree, primary and lower secondary school certificate",2021,12.981901
