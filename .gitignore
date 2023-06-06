@@ -158,3 +158,4 @@ src/tasks/task-2-data-cleaning/geodata/nvidia-smi.png
 src/data/Unemployment_by_Region_clean.csv
 src/data/population_all_data_2019-23.csv
 src/tasks/task-2-data-cleaning/files.ipynb
+src/tasks/task-2-data-cleaning/covid_json.ipynb
